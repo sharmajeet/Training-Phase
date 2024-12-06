@@ -1,0 +1,9 @@
+.box {
+  height: 100px;
+  width: 100px;
+  border: 2px solid snow;
+  background-color: antiquewhite;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

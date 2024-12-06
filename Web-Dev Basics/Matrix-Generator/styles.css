@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  max-width: 100%;
+  background-color: #2000ffd6;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.input-section {
+  margin-bottom: 20px;
+}
+
+.input-section input {
+  width: 100px;
+  height: 30px;
+  margin: 0 10px;
+}
+
+#matrix-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5px;
+  margin-bottom: 20px;
+}
+
+.matrix-input {
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  font-size: 20px;
+}
+
+#result {
+  margin-top: 24px;
+  font-weight: bold;
+}
+
+button {
+  margin: 10px;
+  padding: 5px 10px;
+}

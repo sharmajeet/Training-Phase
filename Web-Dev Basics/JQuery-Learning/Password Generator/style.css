@@ -1,0 +1,84 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .container {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .output-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  #password {
+    width: calc(100% - 80px);
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  #copy-btn {
+    background: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 10px;
+  }
+  
+  #copy-btn:hover {
+    background: #0056b3;
+  }
+  
+  .settings label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+  
+  .settings input[type="number"] {
+    width: 50px;
+    margin-left: 10px;
+  }
+  
+  button {
+    background: #28a745;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  button:hover {
+    background: #218838;
+  }
+  
+
+  .status{
+    display: none;
+  }

@@ -1,0 +1,62 @@
+/* General reset */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #121212;
+  color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+}
+
+.main {
+  text-align: center;
+  padding: 20px;
+  border: 2px solid #444;
+  border-radius: 10px;
+  background-color: #1e1e1e;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  width: 300px;
+}
+
+/* Styling for headings */
+.main h1 {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+  color: #00e676;
+}
+
+/* Styling for the time and date content */
+.content {
+  margin-bottom: 30px;
+}
+
+.time, .Date {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+/* Styling for the individual spans */
+.time span, .Date span {
+  margin: 0 5px;
+}
+
+#hour, #minute, #second,
+#day, #month, #year {
+  padding: 5px 10px;
+  border-radius: 5px;
+  background-color: #333;
+  color: #00e676;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+}
+
+span:nth-child(odd) {
+  color: #fff; /* Colon separator color */
+}
