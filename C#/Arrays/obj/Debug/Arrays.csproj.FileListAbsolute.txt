@@ -1,0 +1,7 @@
+D:\Training\C#\Arrays\bin\Debug\Arrays.exe.config
+D:\Training\C#\Arrays\bin\Debug\Arrays.exe
+D:\Training\C#\Arrays\bin\Debug\Arrays.pdb
+D:\Training\C#\Arrays\obj\Debug\Arrays.csproj.AssemblyReference.cache
+D:\Training\C#\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache
+D:\Training\C#\Arrays\obj\Debug\Arrays.exe
+D:\Training\C#\Arrays\obj\Debug\Arrays.pdb

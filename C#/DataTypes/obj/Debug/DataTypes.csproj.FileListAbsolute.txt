@@ -1,0 +1,7 @@
+D:\Training\C#\DataTypes\bin\Debug\DataTypes.exe.config
+D:\Training\C#\DataTypes\bin\Debug\DataTypes.exe
+D:\Training\C#\DataTypes\bin\Debug\DataTypes.pdb
+D:\Training\C#\DataTypes\obj\Debug\DataTypes.csproj.AssemblyReference.cache
+D:\Training\C#\DataTypes\obj\Debug\DataTypes.csproj.CoreCompileInputs.cache
+D:\Training\C#\DataTypes\obj\Debug\DataTypes.exe
+D:\Training\C#\DataTypes\obj\Debug\DataTypes.pdb

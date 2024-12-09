@@ -1,0 +1,7 @@
+D:\Training\C#\Number-Guessing-App\bin\Debug\Number-Guessing-App.exe.config
+D:\Training\C#\Number-Guessing-App\bin\Debug\Number-Guessing-App.exe
+D:\Training\C#\Number-Guessing-App\bin\Debug\Number-Guessing-App.pdb
+D:\Training\C#\Number-Guessing-App\obj\Debug\Number-Guessing-App.csproj.AssemblyReference.cache
+D:\Training\C#\Number-Guessing-App\obj\Debug\Number-Guessing-App.csproj.CoreCompileInputs.cache
+D:\Training\C#\Number-Guessing-App\obj\Debug\Number-Guessing-App.exe
+D:\Training\C#\Number-Guessing-App\obj\Debug\Number-Guessing-App.pdb

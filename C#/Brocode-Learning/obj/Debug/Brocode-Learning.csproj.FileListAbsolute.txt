@@ -1,0 +1,7 @@
+D:\Training\C#\Brocode-Learning\bin\Debug\Brocode-Learning.exe.config
+D:\Training\C#\Brocode-Learning\bin\Debug\Brocode-Learning.exe
+D:\Training\C#\Brocode-Learning\bin\Debug\Brocode-Learning.pdb
+D:\Training\C#\Brocode-Learning\obj\Debug\Brocode-Learning.csproj.AssemblyReference.cache
+D:\Training\C#\Brocode-Learning\obj\Debug\Brocode-Learning.csproj.CoreCompileInputs.cache
+D:\Training\C#\Brocode-Learning\obj\Debug\Brocode-Learning.exe
+D:\Training\C#\Brocode-Learning\obj\Debug\Brocode-Learning.pdb

@@ -1,0 +1,7 @@
+D:\Training\C#\Operators\bin\Debug\Operators.exe.config
+D:\Training\C#\Operators\bin\Debug\Operators.exe
+D:\Training\C#\Operators\bin\Debug\Operators.pdb
+D:\Training\C#\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+D:\Training\C#\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\Training\C#\Operators\obj\Debug\Operators.exe
+D:\Training\C#\Operators\obj\Debug\Operators.pdb
