@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\C#\\LINQ-Basics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09A6B05B-6687-4D55-97FB-327C64C1A6CE}|LINQ-Basics.csproj|d:\\training\\c#\\linq-basics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A6B05B-6687-4D55-97FB-327C64C1A6CE}|LINQ-Basics.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09A6B05B-6687-4D55-97FB-327C64C1A6CE}|LINQ-Basics.csproj|d:\\training\\c#\\linq-basics\\yeild-keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09A6B05B-6687-4D55-97FB-327C64C1A6CE}|LINQ-Basics.csproj|solutionrelative:yeild-keyword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Yeild-Keyword.cs",
+              "DocumentMoniker": "D:\\Training\\C#\\LINQ-Basics\\Yeild-Keyword.cs",
+              "RelativeDocumentMoniker": "Yeild-Keyword.cs",
+              "ToolTip": "D:\\Training\\C#\\LINQ-Basics\\Yeild-Keyword.cs*",
+              "RelativeToolTip": "Yeild-Keyword.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T11:02:19.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\C#\\LINQ-Basics\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\C#\\LINQ-Basics\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAowDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T08:24:21.315Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\Training\C#\LINQ-Basics\bin\Debug\LINQ-Basics.exe.config
+D:\Training\C#\LINQ-Basics\bin\Debug\LINQ-Basics.exe
+D:\Training\C#\LINQ-Basics\bin\Debug\LINQ-Basics.pdb
+D:\Training\C#\LINQ-Basics\obj\Debug\LINQ-Basics.csproj.AssemblyReference.cache
+D:\Training\C#\LINQ-Basics\obj\Debug\LINQ-Basics.csproj.CoreCompileInputs.cache
+D:\Training\C#\LINQ-Basics\obj\Debug\LINQ-Basics.exe
+D:\Training\C#\LINQ-Basics\obj\Debug\LINQ-Basics.pdb

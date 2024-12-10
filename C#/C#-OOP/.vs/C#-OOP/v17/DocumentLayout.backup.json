@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\C#\\C#-OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F51C249F-8BC7-4A26-B360-20F339C8A4A4}|C#-OOP.csproj|d:\\training\\c#\\c#-oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51C249F-8BC7-4A26-B360-20F339C8A4A4}|C#-OOP.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51C249F-8BC7-4A26-B360-20F339C8A4A4}|C#-OOP.csproj|d:\\training\\c#\\c#-oop\\interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51C249F-8BC7-4A26-B360-20F339C8A4A4}|C#-OOP.csproj|solutionrelative:interface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F51C249F-8BC7-4A26-B360-20F339C8A4A4}|C#-OOP.csproj|d:\\training\\c#\\c#-oop\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F51C249F-8BC7-4A26-B360-20F339C8A4A4}|C#-OOP.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Training\\C#\\C#-OOP\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Training\\C#\\C#-OOP\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:50:37.946Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface.cs",
+              "DocumentMoniker": "D:\\Training\\C#\\C#-OOP\\Interface.cs",
+              "RelativeDocumentMoniker": "Interface.cs",
+              "ToolTip": "D:\\Training\\C#\\C#-OOP\\Interface.cs*",
+              "RelativeToolTip": "Interface.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T04:57:13.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\C#\\C#-OOP\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Training\\C#\\C#-OOP\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABgAAAAAAAAAAAAkwCcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T03:43:42.938Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
