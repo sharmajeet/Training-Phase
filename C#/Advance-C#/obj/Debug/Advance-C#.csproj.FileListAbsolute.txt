@@ -1,0 +1,7 @@
+D:\Training\C#\Advance-C#\bin\Debug\Advance-C#.exe.config
+D:\Training\C#\Advance-C#\bin\Debug\Advance-C#.exe
+D:\Training\C#\Advance-C#\bin\Debug\Advance-C#.pdb
+D:\Training\C#\Advance-C#\obj\Debug\Advance-C#.csproj.AssemblyReference.cache
+D:\Training\C#\Advance-C#\obj\Debug\Advance-C#.csproj.CoreCompileInputs.cache
+D:\Training\C#\Advance-C#\obj\Debug\Advance-C#.exe
+D:\Training\C#\Advance-C#\obj\Debug\Advance-C#.pdb
