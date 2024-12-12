@@ -1,0 +1,9 @@
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.csproj.AssemblyReference.cache
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.AssemblyInfoInputs.cache
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.AssemblyInfo.cs
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.csproj.CoreCompileInputs.cache
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.sourcelink.json
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.RazorAssemblyInfo.cache
+D:\Training\ASP.NET CORE\Routing_Without_MVC\obj\Debug\net8.0\Routing_Without_MVC.RazorAssemblyInfo.cs
