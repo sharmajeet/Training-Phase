@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\ASP.NET CORE\\MAgic_Villa_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EE817D-E158-4FD5-B6EA-C85CA3033BA2}|MAgic_Villa_API.csproj|d:\\training\\asp.net core\\magic_villa_api\\controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EE817D-E158-4FD5-B6EA-C85CA3033BA2}|MAgic_Villa_API.csproj|solutionrelative:controllers\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1EE817D-E158-4FD5-B6EA-C85CA3033BA2}|MAgic_Villa_API.csproj|d:\\training\\asp.net core\\magic_villa_api\\models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1EE817D-E158-4FD5-B6EA-C85CA3033BA2}|MAgic_Villa_API.csproj|solutionrelative:models\\villa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Villa.cs",
+              "DocumentMoniker": "D:\\Training\\ASP.NET CORE\\MAgic_Villa_API\\Models\\Villa.cs",
+              "RelativeDocumentMoniker": "Models\\Villa.cs",
+              "ToolTip": "D:\\Training\\ASP.NET CORE\\MAgic_Villa_API\\Models\\Villa.cs",
+              "RelativeToolTip": "Models\\Villa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:11:26.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VillaApiController.cs",
+              "DocumentMoniker": "D:\\Training\\ASP.NET CORE\\MAgic_Villa_API\\Controllers\\VillaApiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VillaApiController.cs",
+              "ToolTip": "D:\\Training\\ASP.NET CORE\\MAgic_Villa_API\\Controllers\\VillaApiController.cs*",
+              "RelativeToolTip": "Controllers\\VillaApiController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T04:06:57.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
