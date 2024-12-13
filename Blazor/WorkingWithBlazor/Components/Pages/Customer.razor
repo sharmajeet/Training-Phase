@@ -1,0 +1,22 @@
+﻿
+@page "/customer"
+
+<NavBar></NavBar>
+
+<MyHeader></MyHeader>
+
+
+<div>
+	<p>Welcome To Our App : @CustomerName</p>
+
+	<button @onclick="ChangeTheValue">Click Me </button>
+</div>
+
+@code{
+	public string CustomerName { get; set; } = "Jeet sharma";
+
+	public void ChangeTheValue()
+	{
+		this.CustomerName = "Jeet";
+	}
+}
