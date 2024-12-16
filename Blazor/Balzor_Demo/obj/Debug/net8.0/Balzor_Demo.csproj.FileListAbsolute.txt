@@ -26,7 +26,6 @@ D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\staticwebassets\msbuild.build.Ba
 D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Balzor_Demo.props
 D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Balzor_Demo.props
 D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\Balzor_Demo.dll
 D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\refint\Balzor_Demo.dll
 D:\Training\Blazor\Balzor_Demo\obj\Debug\net8.0\Balzor_Demo.pdb

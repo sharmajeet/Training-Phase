@@ -29,7 +29,6 @@ D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\staticwebassets\msbuild.build
 D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ADO_Demo.props
 D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ADO_Demo.props
 D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\ADO_Demo.csproj.Up2Date
 D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\ADO_Demo.dll
 D:\Training\ASP.NET CORE\ADO_Demo\obj\Debug\net8.0\refint\ADO_Demo.dll

@@ -5,12 +5,12 @@ class Program
     static void Main()
     {
         //step - 1
-        SqlConnection connect = new SqlConnection("data source = (localdb)\\MSSQLLocalDB; initial catalog=student;");
+        SqlConnection connect = new SqlConnection("data source = (localdb)\\MSSQLLocalDB; initial catalog=Library_management;");
         connect.Open();
         Console.WriteLine("Connction Established....!!!");
 
         //step - 2
-        String query = "select * from stu";
+        String query = "select * from Students";
         SqlCommand cmd  = new SqlCommand(query, connect);
 
         Console.WriteLine("Data Fetched");

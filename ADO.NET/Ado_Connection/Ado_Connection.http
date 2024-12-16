@@ -1,0 +1,6 @@
+@Ado_Connection_HostAddress = http://localhost:5161
+
+GET {{Ado_Connection_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
