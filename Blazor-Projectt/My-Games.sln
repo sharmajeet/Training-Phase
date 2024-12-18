@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My-Games", "My-Games\My-Games.csproj", "{EE3DE956-D7B6-47B6-A00F-C74660FAEE5B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBlazorApp", "MyBlazorApp\MyBlazorApp.csproj", "{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{EE3DE956-D7B6-47B6-A00F-C74660FAEE5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE3DE956-D7B6-47B6-A00F-C74660FAEE5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE3DE956-D7B6-47B6-A00F-C74660FAEE5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

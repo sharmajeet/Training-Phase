@@ -9,31 +9,37 @@
     <p>Loading...</p>
 }
 
-<table class="table table-striped table-bordered table-hover mt-3">
-    <thead class="table-dark">
-        <th>Id</th>
-        <th>Game Name</th>
-        <th>Genre</th>
-        <th class="text-end">Price</th>
-        <th>Release Date</th>
-    </thead>
-    <tbody>
-        @foreach (var Game in games)
-        {
-            <tr>
-                <td>@Game.Id</td>
-                <td>@Game.Name</td>
-                <td>@Game.Genre</td>
-                <td class="text-end">@Game.Price.ToString("C2")</td>
-                <td>@Game.Release_Date</td>
+@if (games is null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <table class="table table-striped table-bordered table-hover mt-3">
+        <thead class="table-dark">
+                <th>Id</th>
+                <th>Game Name</th>
+                <th>Genre</th>
+                <th class="text-end">Price</th>
+                <th>Release Date</th>
+        </thead>
+        <tbody>
+            @foreach (var Game in games)
+            {
+                <tr>
+                    <td>@Game.Id</td>
+                    <td>@Game.Name</td>
+                    <td>@Game.Genre</td>
+                    <td class="text-end">@Game.Price.ToString("C2")</td>
+                    <td>@Game.Release_Date</td>
 
-            </tr>
-        }
-    </tbody>
-</table>
+                </tr>
+            }
+        </tbody>
+    </table>
 
 
-@code {
+    @code {
 
     private GamesClient client = new();
 
@@ -43,4 +49,5 @@
     {
         games = client.GetGames();
     }
+}
 }
