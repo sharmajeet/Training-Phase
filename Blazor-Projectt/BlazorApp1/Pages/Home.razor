@@ -1,0 +1,27 @@
+﻿@page "/"
+
+<h1> Room Information </h1>
+<hr>
+<h3> Room Id : @room.Id</h3>
+<h3> Room Name : @room.RoomName</h3>
+<h3>Room Status : @(room.isActive ? "Room Is Active" : "Room Is Not Active") </h3>
+@* this is one way data binding *@
+<h3>Room Price : @room.Price</h3>
+
+<hr>
+@* using two way data binding *@
+<input type="number" @bind-value="@room.Price" @bind-value:event="oninput" />
+<br>
+<input type="checkbox" @bind-value="@room.isActive" checked="@(room.isActive ? "checked" : null)" name="room-active" />
+<label for="room-active">Room Is Active</label>
+
+@code {
+
+	Model.BlazorRoom room = new Model.BlazorRoom()
+		{
+			Id = 1,
+			RoomName = "MyVilla",
+			isActive = true,
+			Price = 500
+		};
+}
