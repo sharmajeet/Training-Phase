@@ -9,5 +9,7 @@
         public double Price { get; set; }
 
         public bool isActive { get; set; }
+
+        public List<BlazorRoomProp>? RoomProps { get; set; }
     }
 }

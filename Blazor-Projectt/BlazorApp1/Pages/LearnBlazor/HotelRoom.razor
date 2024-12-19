@@ -1,0 +1,144 @@
+﻿@page "/hotelRoom"
+@using Model;
+
+
+<div class="bg-light">
+
+    <h3 class="shadow-lg border-2 rounded-2"> We will display the Information for HotelRoom's.</h3>
+
+    <div style="background-color: azure;" class="shadow-sm border-1 p-3  ">
+
+        <h2 class="text-info"> Room List's</h2>
+        <div class="row container">
+
+            @foreach (var room in RoomList)
+            {
+
+                <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3>@room.RoomName</h3>
+                        </div>
+                        <div class="card-body">
+                            <h4>Room Price : @room.Price</h4>
+                            <h4>Room Status : @(room.isActive ? "Room Is Active" : "Room Is Not Active")</h4>
+                            <h4>Room Property's</h4>
+                            <ul>
+                                @foreach (var prop in room.RoomProps)
+                                {
+                                    <li>@prop.Name : @prop.Value</li>
+                                }
+                            </ul>
+
+                            @if (room.isActive)
+                            {
+                                @* <button class="btn btn-primary">Book Now</button> *@
+                                <Buttons isAdmin="true"></Buttons>
+                            }
+                            else
+                            {
+                                <Buttons isAdmin="false"></Buttons>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+        @* Aminities Container *@
+        <div class="container">
+
+            <div style="background-color: azure;" class="shadow-sm border-1 p-3  ">
+                <h2 class="text-info"> Aminities List's</h2>
+                <div class="row container">
+                    @foreach (var aminity in AminitiesList)
+                    {
+                        <div class="col-md-4">
+                            <div class="card">
+                                <div class="card-header">
+                                    <h3>@aminity.Name</h3>
+                                </div>
+                                <div class="card-body">
+                                    <h4>@aminity.Description</h4>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+@code {
+    string selectedRoomProp = "";
+
+    List<BlazorRoom> RoomList = new List<BlazorRoom>();
+
+    List<BlazorAminities> AminitiesList = new List<BlazorAminities>();
+    BlazorRoom room = new BlazorRoom()
+        {
+            Id = 1,
+            RoomName = "MyVilla",
+            isActive = true,
+            Price = 500,
+            RoomProps = new List<Model.BlazorRoomProp>
+{
+new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="100"},
+new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="3"},
+}
+        };
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        RoomList.Add(new BlazorRoom()
+            {
+                Id = 1,
+                RoomName = "MyVilla",
+                isActive = false,
+                Price = 500,
+                RoomProps = new List<Model.BlazorRoomProp>
+{
+new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="100"},
+new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="3"},
+}
+            });
+
+        RoomList.Add(new BlazorRoom()
+            {
+                Id = 2,
+                RoomName = "3BHK With Swimming Pool",
+                isActive = true,
+                Price = 900,
+                RoomProps = new List<Model.BlazorRoomProp>
+{
+new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="300"},
+new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="9"},
+}
+            });
+
+        AminitiesList.Add(new BlazorAminities
+            {
+                Id = 1,
+                Name = "Swimming Pool",
+                Description = "Swimming Pool Available"
+            });
+
+        AminitiesList.Add(new BlazorAminities
+            {
+                Id = 2,
+                Name = "Gym",
+                Description = "Gym Available"
+            });
+
+        AminitiesList.Add(new BlazorAminities
+            {
+                Id = 3,
+                Name = "Spa",
+                Description = "Spa Available"
+            });
+    }
+}

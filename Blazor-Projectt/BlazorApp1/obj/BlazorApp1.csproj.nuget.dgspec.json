@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Training\\Blazor\\BlazorApp1\\BlazorApp1.csproj": {}
+    "D:\\Training\\Blazor-Projectt\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "D:\\Training\\Blazor\\BlazorApp1\\BlazorApp1.csproj": {
+    "D:\\Training\\Blazor-Projectt\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Training\\Blazor\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "D:\\Training\\Blazor-Projectt\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "D:\\Training\\Blazor\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "D:\\Training\\Blazor-Projectt\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Training\\Blazor\\BlazorApp1\\obj\\",
+        "outputPath": "D:\\Training\\Blazor-Projectt\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

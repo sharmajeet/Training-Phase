@@ -1,0 +1,12 @@
+﻿@if (isAdmin)
+{
+    <button class="btn btn-primary">Edit </button>
+    <button class="btn btn-danger">Delete</button>
+}
+
+
+@code {
+
+    [Parameter]
+    public bool isAdmin { get; set; }
+}

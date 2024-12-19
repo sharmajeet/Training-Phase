@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H06EYRo02IA=",
+  "dgSpecHash": "q/hdywLfVxg=",
   "success": true,
-  "projectFilePath": "D:\\Training\\Blazor\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "D:\\Training\\Blazor-Projectt\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeetd\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",
     "C:\\Users\\jeetd\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.11\\microsoft.aspnetcore.components.8.0.11.nupkg.sha512",

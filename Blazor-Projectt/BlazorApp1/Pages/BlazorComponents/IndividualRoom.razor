@@ -1,0 +1,33 @@
+﻿@using BlazorApp1.Model
+ 
+ <div class="col-md-4">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 >@Room.RoomName</h3>
+                        </div>
+                        <div class="card-body">
+                            <h4>Room Price : @Room.Price</h4>
+                            <h4>Room Status : @(Room.isActive ? "Room Is Active" : "Room Is Not Active")</h4>
+                            <h4>Room Property's</h4>
+                            <ul>
+                                @foreach (var prop in Room.RoomProps)
+                                {
+                                    <li>@prop.Name : @prop.Value</li>
+                                }
+                            </ul>
+
+                            @if(Room.isActive) 
+                            {
+                                @* <button class="btn btn-primary">Book Now</button> *@
+                                <Buttons isAdmin ="true"></Buttons>
+                            }else {
+                                 <Buttons isAdmin="false"></Buttons>
+                            }
+                        </div>
+                    </div>
+                </div>
+
+@code {
+    [Parameter]
+    public BlazorRoom Room { get; set; }
+}

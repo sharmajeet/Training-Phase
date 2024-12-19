@@ -1,0 +1,76 @@
+﻿@* @page "/hotelRoom"
+@using Model;
+
+<div class="bg-light">
+
+    <h3 class="shadow-lg border-2 rounded-2"> We will display the Information for HotelRoom's.</h3>
+
+    <div style="background-color: azure;" class="shadow-sm border-1 p-3  ">
+
+        <h2 class="text-info"> Room List's</h2>
+        <div class="row container">
+
+            @foreach (var room in RoomList)
+            {
+               
+            }
+
+
+        </div>
+
+    </div>
+
+
+
+</div>
+
+
+@code {
+
+    string selectedRoomProp = "";
+
+    List<BlazorRoom> RoomList = new List<BlazorRoom>();
+    BlazorRoom room = new BlazorRoom()
+        {
+            Id = 1,
+            RoomName = "MyVilla",
+            isActive = true,
+            Price = 500,
+            RoomProps = new List<Model.BlazorRoomProp>
+{
+new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="100"},
+new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="3"},
+}
+        };
+
+    protected override void OnInitialized()
+    {
+        base.OnInitialized();
+
+        RoomList.Add(new BlazorRoom()
+            {
+                Id = 1,
+                RoomName = "MyVilla",
+                isActive = false,
+                Price = 500,
+                RoomProps = new List<Model.BlazorRoomProp>
+{
+new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="100"},
+new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="3"},
+}
+            });
+
+        RoomList.Add(new BlazorRoom()
+            {
+                Id = 2,
+                RoomName = "3BHK With Swimming Pool",
+                isActive = true,
+                Price = 900,
+                RoomProps = new List<Model.BlazorRoomProp>
+{
+new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="300"},
+new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="9"},
+}
+            });
+    }
+} *@
