@@ -1,38 +1,39 @@
 ﻿@page "/hotelRoom"
-@using Model;
-
+@using Model
 
 <div class="bg-light">
 
-    <h3 class="shadow-lg border-2 rounded-2"> We will display the Information for HotelRoom's.</h3>
+    <h3 class="shadow-lg border-2 rounded-2">We will display the Information for HotelRoom's.</h3>
 
-    <div style="background-color: azure;" class="shadow-sm border-1 p-3  ">
+    <div style="background-color: azure;" class="shadow-sm border-1 p-3">
 
-        <h2 class="text-info"> Room List's</h2>
+        <h2 class="text-info">Room List's</h2>
         <div class="row container">
-
+            <div class="col-12">
+                <h4 class="text-info">HotelRoom's</h4>
+                <span >Rooms Selected - @selectedRooms</span>
+            </div>
             @foreach (var room in RoomList)
             {
-
                 <div class="col-md-4">
                     <div class="card">
                         <div class="card-header">
                             <h3>@room.RoomName</h3>
                         </div>
                         <div class="card-body">
-                            <h4>Room Price : @room.Price</h4>
-                            <h4>Room Status : @(room.isActive ? "Room Is Active" : "Room Is Not Active")</h4>
+                            <h4>Room Price: @room.Price</h4>
+                            <h4>Room Status: @(room.isActive ? "Room Is Active" : "Room Is Not Active")</h4>
                             <h4>Room Property's</h4>
                             <ul>
                                 @foreach (var prop in room.RoomProps)
                                 {
-                                    <li>@prop.Name : @prop.Value</li>
+                                    <li>@prop.Name: @prop.Value</li>
                                 }
                             </ul>
+                            <input class="align-content-end link-success" type="checkbox" @onchange="e => roomsSelectedCounter(((ChangeEventArgs)e).Value is not null && (bool)((ChangeEventArgs)e).Value)" />
 
                             @if (room.isActive)
                             {
-                                @* <button class="btn btn-primary">Book Now</button> *@
                                 <Buttons isAdmin="true"></Buttons>
                             }
                             else
@@ -45,11 +46,9 @@
             }
         </div>
 
-        @* Aminities Container *@
         <div class="container">
-
-            <div style="background-color: azure;" class="shadow-sm border-1 p-3  ">
-                <h2 class="text-info"> Aminities List's</h2>
+            <div style="background-color: azure;" class="shadow-sm border-1 p-3">
+                <h2 class="text-info">Aminities List's</h2>
                 <div class="row container">
                     @foreach (var aminity in AminitiesList)
                     {
@@ -66,79 +65,61 @@
                     }
                 </div>
             </div>
-
         </div>
 
     </div>
 </div>
+
 @code {
     string selectedRoomProp = "";
-
-    List<BlazorRoom> RoomList = new List<BlazorRoom>();
-
-    List<BlazorAminities> AminitiesList = new List<BlazorAminities>();
-    BlazorRoom room = new BlazorRoom()
-        {
-            Id = 1,
-            RoomName = "MyVilla",
-            isActive = true,
-            Price = 500,
-            RoomProps = new List<Model.BlazorRoomProp>
-{
-new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="100"},
-new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="3"},
-}
-        };
+    public int selectedRooms { get; set; } = 0;
+    List<BlazorRoom> RoomList = new();
+    List<BlazorAminities> AminitiesList = new();
 
     protected override void OnInitialized()
     {
         base.OnInitialized();
 
-        RoomList.Add(new BlazorRoom()
+        RoomList.Add(new BlazorRoom
+        {
+            Id = 1,
+            RoomName = "MyVilla",
+            isActive = false,
+            Price = 500,
+            RoomProps = new List<Model.BlazorRoomProp>
             {
-                Id = 1,
-                RoomName = "MyVilla",
-                isActive = false,
-                Price = 500,
-                RoomProps = new List<Model.BlazorRoomProp>
-{
-new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="100"},
-new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="3"},
-}
-            });
+                new Model.BlazorRoomProp { Id = 1, Name = "Sq Ft", Value = "100" },
+                new Model.BlazorRoomProp { Id = 2, Name = "Occupancy", Value = "3" },
+            }
+        });
 
-        RoomList.Add(new BlazorRoom()
+        RoomList.Add(new BlazorRoom
+        {
+            Id = 2,
+            RoomName = "3BHK With Swimming Pool",
+            isActive = true,
+            Price = 900,
+            RoomProps = new List<Model.BlazorRoomProp>
             {
-                Id = 2,
-                RoomName = "3BHK With Swimming Pool",
-                isActive = true,
-                Price = 900,
-                RoomProps = new List<Model.BlazorRoomProp>
-{
-new Model.BlazorRoomProp{Id=1,Name="Sq Ft",Value="300"},
-new Model.BlazorRoomProp{Id=2,Name="Occupancy",Value="9"},
-}
-            });
+                new Model.BlazorRoomProp { Id = 1, Name = "Sq Ft", Value = "300" },
+                new Model.BlazorRoomProp { Id = 2, Name = "Occupancy", Value = "9" },
+            }
+        });
 
-        AminitiesList.Add(new BlazorAminities
-            {
-                Id = 1,
-                Name = "Swimming Pool",
-                Description = "Swimming Pool Available"
-            });
+        AminitiesList.Add(new BlazorAminities { Id = 1, Name = "Swimming Pool", Description = "Swimming Pool Available" });
+        AminitiesList.Add(new BlazorAminities { Id = 2, Name = "Gym", Description = "Gym Available" });
+        AminitiesList.Add(new BlazorAminities { Id = 3, Name = "Spa", Description = "Spa Available" });
+    }
 
-        AminitiesList.Add(new BlazorAminities
-            {
-                Id = 2,
-                Name = "Gym",
-                Description = "Gym Available"
-            });
-
-        AminitiesList.Add(new BlazorAminities
-            {
-                Id = 3,
-                Name = "Spa",
-                Description = "Spa Available"
-            });
+    protected void roomsSelectedCounter(bool isRoomSelected)
+    {
+        if (isRoomSelected)
+        {
+            selectedRooms++;
+        }
+        else
+        {
+            selectedRooms--;
+        }
     }
 }

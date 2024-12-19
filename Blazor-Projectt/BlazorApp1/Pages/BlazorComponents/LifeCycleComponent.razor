@@ -1,0 +1,28 @@
+@page "/lifecycle"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Lifecycle Child Component</h1>
+<hr>
+@foreach (var item in EventType)
+{
+    <h3>Event Type : @item </h3>
+}
+@code {    private int currentCount = 0;
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+   List<string> EventType = new List<string>();
+    @* syncronious OnInitialized method *@
+    protected override void OnInitialized()
+    {
+        EventType.Add("OnInitialized is called");
+    }
+    @* Async OnInitialized method *@
+    protected override async Task OnInitializedAsync()
+    {
+        EventType.Add("OnInitializedAsync is called");
+        await Task.Delay(10000);
+    }
+}
