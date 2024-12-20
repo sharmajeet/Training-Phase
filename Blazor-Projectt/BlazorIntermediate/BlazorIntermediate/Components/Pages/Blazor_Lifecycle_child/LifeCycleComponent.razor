@@ -1,0 +1,42 @@
+<PageTitle>Lifecycle Child Component</PageTitle>
+
+<div class="border">
+    <h4>Child Component</h4>
+</div>
+
+@foreach (var item in EventType)
+{
+    <p class="text-info">@item</p>
+}
+
+@code {
+    [Parameter]
+    public int CountValue { get; set; }
+
+    List<string> EventType = new List<string>();
+
+    // OnInitialized method
+    protected override void OnInitialized()
+    {
+        EventType.Add("Child-OnInitialized");
+    }
+
+    // OnParameterSet method
+    protected override void OnParametersSet()
+    {
+        EventType.Add("Count");
+    }
+
+    //ON AFTER RENDER
+    protected override void OnAfterRender(bool firstRender)
+    {
+        EventType.Add("Child-OnAfterRender");
+    }
+
+    //ON AFTER RENDER ASYNC
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        EventType.Add("Child-OnAfterRenderAsync");
+        await Task.Delay(1000);
+    }
+}

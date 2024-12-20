@@ -1,0 +1,12 @@
+<div class="container">
+    <h4>This is Another Component.</h4>
+    <input type="text" class="border" placeholder="@Placeholder" />
+    <h3>Cascade Para- @ParentComponent </h3>
+</div>
+
+@code {
+    [Parameter]
+    public string? Placeholder { get; set; }
+    [CascadingParameter (Name ="ParentComponent")]
+    public string? ParentComponent { get; set; }
+}

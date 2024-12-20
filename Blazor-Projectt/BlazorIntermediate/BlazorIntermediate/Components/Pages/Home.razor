@@ -1,0 +1,20 @@
+﻿@page "/"
+@using BlazorIntermediate.Components.Pages.Blazor_Lifecycle
+
+<PageTitle>Home</PageTitle>
+<div class="container">
+    <h3>
+        This is a Parent Component.
+    </h3>
+    <CascadingValue Value="parentMessage">
+        <Child />
+        <AnotherComponent Placeholder="Enter Data..."></AnotherComponent>
+
+    </CascadingValue>
+</div>
+
+@code {
+
+    private string parentMessage = "Hello from Parent!";
+
+}

@@ -68,10 +68,19 @@
         </div>
 
     </div>
+
+    <div class="border-3 container-fluid">
+        <p class="text-center text-decoration-underline">
+            Selected Aminities : @selectedAminities
+        </p>
+    </div>
 </div>
+
 
 @code {
     string selectedRoomProp = "";
+
+    protected string selectedAminities { get; set; } = "";
     public int selectedRooms { get; set; } = 0;
     List<BlazorRoom> RoomList = new();
     List<BlazorAminities> AminitiesList = new();
@@ -122,4 +131,9 @@
             selectedRooms--;
         }
     }
+
+    protected void selectedAminities(string aminity){
+        selectedAminities = aminity;
+    }
+
 }

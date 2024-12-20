@@ -7,6 +7,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "My-Games", "My-Games\My-Gam
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBlazorApp", "MyBlazorApp\MyBlazorApp.csproj", "{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorIntermediate", "BlazorIntermediate", "{F5733CEE-4C45-4F97-8DDA-ABDC4BEA6219}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorIntermediate", "BlazorIntermediate\BlazorIntermediate\BlazorIntermediate.csproj", "{5E7D5637-F375-4189-9691-AD8F334F70DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorIntermediate.Client", "BlazorIntermediate\BlazorIntermediate.Client\BlazorIntermediate.Client.csproj", "{DF323652-4FB8-4F03-97D9-A3D8FEE4D398}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +30,17 @@ Global
 		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C758352E-CEF9-4F97-BC6F-FF9ED8C53A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E7D5637-F375-4189-9691-AD8F334F70DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E7D5637-F375-4189-9691-AD8F334F70DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E7D5637-F375-4189-9691-AD8F334F70DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E7D5637-F375-4189-9691-AD8F334F70DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF323652-4FB8-4F03-97D9-A3D8FEE4D398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF323652-4FB8-4F03-97D9-A3D8FEE4D398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF323652-4FB8-4F03-97D9-A3D8FEE4D398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF323652-4FB8-4F03-97D9-A3D8FEE4D398}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5E7D5637-F375-4189-9691-AD8F334F70DA} = {F5733CEE-4C45-4F97-8DDA-ABDC4BEA6219}
+		{DF323652-4FB8-4F03-97D9-A3D8FEE4D398} = {F5733CEE-4C45-4F97-8DDA-ABDC4BEA6219}
 	EndGlobalSection
 EndGlobal

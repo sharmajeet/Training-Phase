@@ -2073,6 +2073,6 @@ D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\BlazorApp1.dll
 D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\refint\BlazorApp1.dll
 D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\BlazorApp1.pdb
 D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\ref\BlazorApp1.dll
-D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\compressed\mpnezo3ggr-tqi2vn3frr.gz
-D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\compressed\kyjy2iuvp1-6nc692b9sk.gz
-D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\compressed\5jzqasczcu-a1och454c4.gz
+D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\compressed\mpnezo3ggr-oz3asmrbo7.gz
+D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\compressed\kyjy2iuvp1-ma8hwi91fp.gz
+D:\Training\Blazor-Projectt\BlazorApp1\obj\Debug\net8.0\compressed\5jzqasczcu-tvhded3zva.gz

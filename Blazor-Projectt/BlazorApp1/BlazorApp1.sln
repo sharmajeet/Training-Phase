@@ -5,6 +5,12 @@ VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApp1", "BlazorApp1.csproj", "{E3DEB7E0-E87E-454B-B773-A4FFAA5E5364}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BlazorIntermediate", "BlazorIntermediate", "{AF3FB469-2B97-4FD7-A958-7E813BD5512A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorIntermediate", "BlazorIntermediate\BlazorIntermediate\BlazorIntermediate.csproj", "{C09422C3-8D4C-4CEA-BE38-577CAA8BB181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorIntermediate.Client", "BlazorIntermediate\BlazorIntermediate.Client\BlazorIntermediate.Client.csproj", "{A307A91B-BAC4-4164-AD11-8D9E66A37D86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +21,20 @@ Global
 		{E3DEB7E0-E87E-454B-B773-A4FFAA5E5364}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3DEB7E0-E87E-454B-B773-A4FFAA5E5364}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3DEB7E0-E87E-454B-B773-A4FFAA5E5364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C09422C3-8D4C-4CEA-BE38-577CAA8BB181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09422C3-8D4C-4CEA-BE38-577CAA8BB181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09422C3-8D4C-4CEA-BE38-577CAA8BB181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09422C3-8D4C-4CEA-BE38-577CAA8BB181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A307A91B-BAC4-4164-AD11-8D9E66A37D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A307A91B-BAC4-4164-AD11-8D9E66A37D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A307A91B-BAC4-4164-AD11-8D9E66A37D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A307A91B-BAC4-4164-AD11-8D9E66A37D86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C09422C3-8D4C-4CEA-BE38-577CAA8BB181} = {AF3FB469-2B97-4FD7-A958-7E813BD5512A}
+		{A307A91B-BAC4-4164-AD11-8D9E66A37D86} = {AF3FB469-2B97-4FD7-A958-7E813BD5512A}
 	EndGlobalSection
 EndGlobal
