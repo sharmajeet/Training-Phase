@@ -1,0 +1,6 @@
+D:\Training\Blazor\FormDemo\FormDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\FormDemo\FormDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\FormDemo\FormDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\FormDemo\FormDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\FormDemo\FormDemo.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\FormDemo\FormDemo.Client\obj\Debug\net8.0\staticwebassets.build.json

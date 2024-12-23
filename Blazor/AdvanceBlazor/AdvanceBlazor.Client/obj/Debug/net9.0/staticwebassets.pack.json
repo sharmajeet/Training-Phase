@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Training\\Blazor\\AdvanceBlazor\\AdvanceBlazor.Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\Training\\Blazor\\AdvanceBlazor\\AdvanceBlazor.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "D:\\Training\\Blazor\\AdvanceBlazor\\AdvanceBlazor.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AdvanceBlazor.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.AdvanceBlazor.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.AdvanceBlazor.Client.props",
+      "PackagePath": "build\\AdvanceBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.AdvanceBlazor.Client.props",
+      "PackagePath": "buildMultiTargeting\\AdvanceBlazor.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.AdvanceBlazor.Client.props",
+      "PackagePath": "buildTransitive\\AdvanceBlazor.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
