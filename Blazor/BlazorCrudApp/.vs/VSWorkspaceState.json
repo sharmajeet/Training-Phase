@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Blazor.Server",
+    "\\Blazor.Shared",
+    "\\Blazor.Shared\\Services"
+  ],
+  "SelectedNode": "\\Blazor.Shared\\Services\\StudentServices.cs",
+  "PreviewInSolutionExplorer": false
+}

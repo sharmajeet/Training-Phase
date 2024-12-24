@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Blazor\\FormDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E99F3-9354-475C-898E-168E98A70E35}|FormDemo.Client\\FormDemo.Client.csproj|d:\\training\\blazor\\formdemo\\formdemo.client\\pages\\forms\\formsdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6B8E99F3-9354-475C-898E-168E98A70E35}|FormDemo.Client\\FormDemo.Client.csproj|solutionrelative:formdemo.client\\pages\\forms\\formsdemo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D9669D5-9507-4D9F-8A6A-B892B5C8D228}|FormDemo\\FormDemo.csproj|d:\\training\\blazor\\formdemo\\formdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1D9669D5-9507-4D9F-8A6A-B892B5C8D228}|FormDemo\\FormDemo.csproj|solutionrelative:formdemo\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B8E99F3-9354-475C-898E-168E98A70E35}|FormDemo.Client\\FormDemo.Client.csproj|d:\\training\\blazor\\formdemo\\formdemo.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B8E99F3-9354-475C-898E-168E98A70E35}|FormDemo.Client\\FormDemo.Client.csproj|solutionrelative:formdemo.client\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Training\\Blazor\\FormDemo\\FormDemo.Client\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FormDemo.Client\\Models\\Product.cs",
+              "ToolTip": "D:\\Training\\Blazor\\FormDemo\\FormDemo.Client\\Models\\Product.cs",
+              "RelativeToolTip": "FormDemo.Client\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T08:36:29.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Training\\Blazor\\FormDemo\\FormDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "FormDemo\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Training\\Blazor\\FormDemo\\FormDemo\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "FormDemo\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBgAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T08:25:42.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormsDemo.razor",
+              "DocumentMoniker": "D:\\Training\\Blazor\\FormDemo\\FormDemo.Client\\Pages\\Forms\\FormsDemo.razor",
+              "RelativeDocumentMoniker": "FormDemo.Client\\Pages\\Forms\\FormsDemo.razor",
+              "ToolTip": "D:\\Training\\Blazor\\FormDemo\\FormDemo.Client\\Pages\\Forms\\FormsDemo.razor*",
+              "RelativeToolTip": "FormDemo.Client\\Pages\\Forms\\FormsDemo.razor*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T08:23:12.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

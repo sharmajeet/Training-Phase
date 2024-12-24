@@ -1,0 +1,4 @@
+D:\Training\Blazor\BlazorCrudApp\Blazor.Web\Blazor.Web.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\BlazorCrudApp\Blazor.Web\Blazor.Web.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\BlazorCrudApp\Blazor.Web\Blazor.Web.Client\obj\Debug\net8.0\staticwebassets.build.json
+D:\Training\Blazor\BlazorCrudApp\Blazor.Web\Blazor.Web.Client\obj\Debug\net8.0\staticwebassets.build.json

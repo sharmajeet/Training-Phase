@@ -1,0 +1,40 @@
+﻿@page "/forms"
+@using Models;
+
+<div class="mx-2 px-2">
+    <h1>
+        Working With Forms
+    </h1>
+
+    <EditForm id="ProductForm" Model="Product" OnValidSubmit="addProduct">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group py-2">
+            <label for="ProductName">Product Name</label>
+            <InputText class="form-control" id="ProductName" @bind-Value="Product.ProductName" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Add Product</button>
+    </EditForm>
+
+</div>
+
+@code {
+    public Product Product { get; set; } = new Product();
+    private bool isProcessing = false;
+    private bool taskCompleted = false;
+
+    private async Task addProduct()
+    {
+        isProcessing = true;
+        taskCompleted = false;
+        StateHasChanged(); // Update the UI to show the loading state
+
+        await Task.Delay(1000); // Simulate a POST request
+        isProcessing = false;
+        taskCompleted = true;
+
+        StateHasChanged(); // Update the UI after processing
+    }
+}
