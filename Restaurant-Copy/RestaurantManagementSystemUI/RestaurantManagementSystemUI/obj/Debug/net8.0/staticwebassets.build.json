@@ -1,0 +1,640 @@
+{
+  "Version": 1,
+  "Hash": "smzvXjKasXncXYyX6MyOdpDvJvSrfn0WEPnhNEY26sE=",
+  "Source": "RestaurantManagementSystemUI",
+  "BasePath": "_content/RestaurantManagementSystemUI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RestaurantManagementSystemUI\\wwwroot",
+      "Source": "RestaurantManagementSystemUI",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantManagementSystemUI.styles.css",
+      "SourceId": "RestaurantManagementSystemUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "RelativePath": "RestaurantManagementSystemUI#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "9qrjsshqwi",
+      "Integrity": "IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantManagementSystemUI.styles.css"
+    },
+    {
+      "Identity": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantManagementSystemUI.bundle.scp.css",
+      "SourceId": "RestaurantManagementSystemUI",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "RelativePath": "RestaurantManagementSystemUI#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "9qrjsshqwi",
+      "Integrity": "IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantManagementSystemUI.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\app.css",
+      "SourceId": "RestaurantManagementSystemUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "RelativePath": "app#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "da95v2qkru",
+      "Integrity": "u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    },
+    {
+      "Identity": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "SourceId": "RestaurantManagementSystemUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "RelativePath": "bootstrap/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bpk8xqwxhs",
+      "Integrity": "z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "SourceId": "RestaurantManagementSystemUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "RelativePath": "bootstrap/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8inm30yfxf",
+      "Integrity": "gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\favicon.png",
+      "SourceId": "RestaurantManagementSystemUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\",
+      "BasePath": "_content/RestaurantManagementSystemUI",
+      "RelativePath": "favicon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ifv42okdf2",
+      "Integrity": "4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "app.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "app.da95v2qkru.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "da95v2qkru"
+        },
+        {
+          "Name": "label",
+          "Value": "app.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u9qEka1auR7E3rd3/8/j8hkQdSOYj9bRJ4nYiFDR1sE="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.bpk8xqwxhs.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bpk8xqwxhs"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "162720"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-z8OR40MowJ8GgK6P89Y+hiJK5+cclzFHzLhFQLL92bg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.8inm30yfxf.map",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8inm30yfxf"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstrap/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstrap/bootstrap.min.css.map",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "449111"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gBwg2tmA0Ci2u54gMF1jNCVku6vznarkLS6D76htNNQ="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ifv42okdf2.png",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ifv42okdf2"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.png",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\favicon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1148"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 15:50:44 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4mWsDy3aHl36ZbGt8zByK7Pvd4kRUoNgTYzRnwmPHwg="
+        }
+      ]
+    },
+    {
+      "Route": "RestaurantManagementSystemUI.9qrjsshqwi.bundle.scp.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantManagementSystemUI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 16:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9qrjsshqwi"
+        },
+        {
+          "Name": "label",
+          "Value": "RestaurantManagementSystemUI.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs="
+        }
+      ]
+    },
+    {
+      "Route": "RestaurantManagementSystemUI.9qrjsshqwi.styles.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantManagementSystemUI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 16:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9qrjsshqwi"
+        },
+        {
+          "Name": "label",
+          "Value": "RestaurantManagementSystemUI.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs="
+        }
+      ]
+    },
+    {
+      "Route": "RestaurantManagementSystemUI.bundle.scp.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantManagementSystemUI.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 16:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs="
+        }
+      ]
+    },
+    {
+      "Route": "RestaurantManagementSystemUI.styles.css",
+      "AssetFile": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantManagementSystemUI.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5939"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 25 Dec 2024 16:50:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-IS9QjTR9Pih3EDsdcbj7qQE02Ya4WJK0i9R2VpK2CIs="
+        }
+      ]
+    }
+  ]
+}

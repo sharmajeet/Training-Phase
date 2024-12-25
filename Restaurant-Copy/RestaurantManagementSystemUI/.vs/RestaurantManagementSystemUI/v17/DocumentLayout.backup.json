@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Restaurant-\\RestaurantManagementSystemUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\pages\\reservationform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\pages\\reservationform.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\services\\tableservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\pages\\tablelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\pages\\tablelist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\pages\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\pages\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\model\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\model\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\tablecard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\tablecard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\components\\filterpanel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\components\\filterpanel.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|d:\\restaurant-\\restaurantmanagementsystemui\\restaurantmanagementsystemui\\restaurantmanagementsystemui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B93AFE5-BC9D-4AE9-ADA2-18E946AFC560}|RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj|solutionrelative:restaurantmanagementsystemui\\restaurantmanagementsystemui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:00:49.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationForm.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\ReservationForm.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Pages\\ReservationForm.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\ReservationForm.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Pages\\ReservationForm.razor",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:02:31.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\MainLayout.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Pages\\MainLayout.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\MainLayout.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Pages\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:02:41.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Program.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Program.cs",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Program.cs*",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T15:53:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TableList.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\TableList.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Pages\\TableList.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Pages\\TableList.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Pages\\TableList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:02:18.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TableService.cs",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Services\\TableService.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Services\\TableService.cs",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Services\\TableService.cs",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Services\\TableService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:04:46.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwB8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:53:33.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Table.cs",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Model\\Table.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Model\\Table.cs",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Model\\Table.cs",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Model\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:17:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Services\\ReservationService.cs",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Services\\ReservationService.cs",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:05:01.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Model\\Reservation.cs",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\Model\\Reservation.cs",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\Model\\Reservation.cs",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\Model\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T16:17:21.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TableCard.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\TableCard.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\TableCard.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\TableCard.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\TableCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:04:12.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilterPanel.razor",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\FilterPanel.razor",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\Components\\FilterPanel.razor",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\Components\\FilterPanel.razor",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\Components\\FilterPanel.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T16:04:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RestaurantManagementSystemUI",
+              "DocumentMoniker": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj",
+              "ToolTip": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj",
+              "RelativeToolTip": "RestaurantManagementSystemUI\\RestaurantManagementSystemUI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T16:01:50.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

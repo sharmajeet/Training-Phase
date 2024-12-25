@@ -1,0 +1,26 @@
+﻿@inject HttpClient Http
+@code {
+    private List<Table> AvailableTables { get; set; } = new();
+    private Reservation NewReservation { get; set; } = new();
+
+    protected override async Task OnInitializedAsync()
+    {
+        AvailableTables = await Http.GetFromJsonAsync<List<Table>>("tables");
+    }
+
+    private async Task SubmitReservation()
+    {
+        await Http.PostAsJsonAsync("reservations", NewReservation);
+    }
+}
+
+<form @onsubmit="SubmitReservation">
+    <select @bind="NewReservation.TableId">
+        @foreach (var table in AvailableTables)
+        {
+            <option value="@table.Id">@table.Location - @table.NumberOfSeats seats</option>
+        }
+    </select>
+    <input type="datetime-local" @bind="NewReservation.ReservationTime" />
+    <button type="submit">Submit</button>
+</form>

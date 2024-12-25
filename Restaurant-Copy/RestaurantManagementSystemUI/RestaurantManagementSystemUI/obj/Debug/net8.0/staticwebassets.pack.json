@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantManagementSystemUI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\RestaurantManagementSystemUI.9qrjsshqwi.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Restaurant-\\RestaurantManagementSystemUI\\RestaurantManagementSystemUI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantManagementSystemUI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.RestaurantManagementSystemUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.RestaurantManagementSystemUI.props",
+      "PackagePath": "build\\RestaurantManagementSystemUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.RestaurantManagementSystemUI.props",
+      "PackagePath": "buildMultiTargeting\\RestaurantManagementSystemUI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.RestaurantManagementSystemUI.props",
+      "PackagePath": "buildTransitive\\RestaurantManagementSystemUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
