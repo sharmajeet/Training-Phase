@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SaveDataFromFormToDB.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SaveDataFromFormToDB.zzouihp2cm.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SaveDataFromFormToDB.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SaveDataFromFormToDB.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SaveDataFromFormToDB.props",
+      "PackagePath": "build\\SaveDataFromFormToDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SaveDataFromFormToDB.props",
+      "PackagePath": "buildMultiTargeting\\SaveDataFromFormToDB.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SaveDataFromFormToDB.props",
+      "PackagePath": "buildTransitive\\SaveDataFromFormToDB.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

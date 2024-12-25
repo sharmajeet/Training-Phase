@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|d:\\training\\project-2_saveformdataintodbusingblazor\\savedatafromformtodb\\savedatafromformtodb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|solutionrelative:savedatafromformtodb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|d:\\training\\project-2_saveformdataintodbusingblazor\\savedatafromformtodb\\savedatafromformtodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|solutionrelative:savedatafromformtodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|d:\\training\\project-2_saveformdataintodbusingblazor\\savedatafromformtodb\\savedatafromformtodb\\components\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|solutionrelative:savedatafromformtodb\\components\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|d:\\training\\project-2_saveformdataintodbusingblazor\\savedatafromformtodb\\savedatafromformtodb\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C5C196-C6DF-4C2A-826A-497327F5BEC9}|SaveDataFromFormToDB\\SaveDataFromFormToDB.csproj|solutionrelative:savedatafromformtodb\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "SaveDataFromFormToDB\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "SaveDataFromFormToDB\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T06:46:50.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\appsettings.json",
+              "RelativeDocumentMoniker": "SaveDataFromFormToDB\\appsettings.json",
+              "ToolTip": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\appsettings.json",
+              "RelativeToolTip": "SaveDataFromFormToDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T06:27:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\Components\\Data\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "SaveDataFromFormToDB\\Components\\Data\\AppDBContext.cs",
+              "ToolTip": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\Components\\Data\\AppDBContext.cs",
+              "RelativeToolTip": "SaveDataFromFormToDB\\Components\\Data\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:20:02.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Country.cs",
+              "DocumentMoniker": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "SaveDataFromFormToDB\\Models\\Country.cs",
+              "ToolTip": "D:\\Training\\Project-2_SaveFormDataIntoDbUsingBlazor\\SaveDataFromFormToDB\\SaveDataFromFormToDB\\Models\\Country.cs",
+              "RelativeToolTip": "SaveDataFromFormToDB\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:15:58.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

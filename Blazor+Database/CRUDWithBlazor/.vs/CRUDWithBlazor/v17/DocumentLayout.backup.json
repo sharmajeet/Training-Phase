@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\components\\pages\\productpages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\components\\pages\\productpages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\migrations\\20241224083913_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\migrations\\20241224083913_init.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\data\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\components\\pages\\productpages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\components\\pages\\productpages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\migrations\\dbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\components\\pages\\productpages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\components\\pages\\productpages\\delete.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|d:\\training\\blazor\u002Bdatabase\\crudwithblazor\\crudwithblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3D01CC97-A506-499E-955D-B9CD7DE276A9}|CRUDWithBlazor\\CRUDWithBlazor.csproj|solutionrelative:crudwithblazor\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\appsettings.json",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\appsettings.json",
+              "RelativeToolTip": "CRUDWithBlazor\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T08:35:57.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Pages\\ProductPages\\Index.razor",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Components\\Pages\\ProductPages\\Index.razor",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Pages\\ProductPages\\Index.razor*",
+              "RelativeToolTip": "CRUDWithBlazor\\Components\\Pages\\ProductPages\\Index.razor*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwCwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T17:29:54.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Program.cs",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Program.cs",
+              "RelativeToolTip": "CRUDWithBlazor\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:32:21.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Models\\Product.cs",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Models\\Product.cs",
+              "RelativeToolTip": "CRUDWithBlazor\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T16:12:28.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBContext.cs",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Data\\DBContext.cs",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Data\\DBContext.cs",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Data\\DBContext.cs",
+              "RelativeToolTip": "CRUDWithBlazor\\Data\\DBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:34:26.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241224083913_init.Designer.cs",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Migrations\\20241224083913_init.Designer.cs",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Migrations\\20241224083913_init.Designer.cs",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Migrations\\20241224083913_init.Designer.cs",
+              "RelativeToolTip": "CRUDWithBlazor\\Migrations\\20241224083913_init.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:06:19.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.razor",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Pages\\ProductPages\\Details.razor",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Components\\Pages\\ProductPages\\Details.razor",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Pages\\ProductPages\\Details.razor",
+              "RelativeToolTip": "CRUDWithBlazor\\Components\\Pages\\ProductPages\\Details.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAswD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:00:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DBContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Migrations\\DBContextModelSnapshot.cs",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Migrations\\DBContextModelSnapshot.cs",
+              "RelativeToolTip": "CRUDWithBlazor\\Migrations\\DBContextModelSnapshot.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:44:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.razor",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Pages\\ProductPages\\Delete.razor",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Components\\Pages\\ProductPages\\Delete.razor",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Pages\\ProductPages\\Delete.razor",
+              "RelativeToolTip": "CRUDWithBlazor\\Components\\Pages\\ProductPages\\Delete.razor",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwDcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:00:53.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "CRUDWithBlazor\\Components\\Routes.razor",
+              "ToolTip": "D:\\Training\\Blazor\u002BDatabase\\CRUDWithBlazor\\CRUDWithBlazor\\Components\\Routes.razor",
+              "RelativeToolTip": "CRUDWithBlazor\\Components\\Routes.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:43:47.303Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

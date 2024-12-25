@@ -1,0 +1,52 @@
+﻿@page "/products/details"
+@using Microsoft.EntityFrameworkCore
+@using CrudOprUsingBlazor.Models
+@inject IDbContextFactory<CrudOprUsingBlazor.Data.MyAppDB> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Product Details</PageTitle>
+
+<h1 class="text-center my-4">Product Details</h1>
+
+<div class="container">
+    <h2 class="mb-4">Product Information</h2>
+    <hr />
+    @if (product is null)
+    {
+        <p class="text-center"><em>Loading...</em></p>
+    }
+    else
+    {
+        <dl class="row">
+            <dt class="col-sm-3">Name:</dt>
+            <dd class="col-sm-9">@product.name</dd>
+            <dt class="col-sm-3">Price:</dt>
+            <dd class="col-sm-9">@product.price</dd>
+            <dt class="col-sm-3">Quantity:</dt>
+            <dd class="col-sm-9">@product.Qty</dd>
+        </dl>
+
+        <div class="text-center">
+            <a href="@($"/products/edit?id={product.id}")" class="btn btn-warning">Edit</a>
+            <a href="@($"/products")" class="btn btn-outline-secondary ms-2">Back to List</a>
+        </div>
+    }
+</div>
+
+@code {
+    private Product? product;
+
+    [SupplyParameterFromQuery]
+    private int id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        product = await context.Product.FirstOrDefaultAsync(m => m.id == id);
+
+        if (product is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

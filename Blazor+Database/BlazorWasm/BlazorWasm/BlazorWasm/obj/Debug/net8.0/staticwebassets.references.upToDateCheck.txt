@@ -1,0 +1,1 @@
+D:\Training\Blazor+Database\BlazorWasm\BlazorWasm\BlazorWasm.Client\obj\Debug\net8.0\staticwebassets.build.json

@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CRUDWithBlazor",
+    "\\CRUDWithBlazor\\Components",
+    "\\CRUDWithBlazor\\Components\\Layout",
+    "\\CRUDWithBlazor\\Components\\Pages",
+    "\\CRUDWithBlazor\\Components\\Pages\\ProductPages",
+    "\\CRUDWithBlazor\\Migrations",
+    "\\CRUDWithBlazor\\Models"
+  ],
+  "SelectedNode": "\\CRUDWithBlazor.sln",
+  "PreviewInSolutionExplorer": false
+}

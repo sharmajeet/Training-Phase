@@ -1,0 +1,105 @@
+﻿@page "/products/edit"
+@using Microsoft.EntityFrameworkCore
+@using CRUDWithBlazor.Models
+@inject IDbContextFactory<CRUDWithBlazor.Data.DBContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Edit Product</PageTitle>
+
+<div class="container mt-5">
+    <h1 class="text-center text-primary">Edit Product</h1>
+    <hr />
+
+    @if (Product is null)
+    {
+            <p class="text-muted"><em>Loading...</em></p>
+    }
+    else
+    {
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <EditForm method="post" Model="Product" OnValidSubmit="UpdateProduct" FormName="edit" Enhance>
+                        <DataAnnotationsValidator />
+                        <ValidationSummary class="alert alert-danger" role="alert" />
+                        <input type="hidden" name="Product.Id" value="@Product.Id" />
+
+                        <div class="mb-3">
+                            <label for="name" class="form-label fw-bold">Name:</label>
+                            <InputText id="name" @bind-Value="Product.Name" class="form-control" />
+                            <ValidationMessage For="() => Product.Name" class="text-danger" />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="price" class="form-label fw-bold">Price:</label>
+                            <InputNumber id="price" @bind-Value="Product.Price" class="form-control" />
+                            <ValidationMessage For="() => Product.Price" class="text-danger" />
+                        </div>
+
+                        <div class="mb-3">
+                            <label for="qty" class="form-label fw-bold">Quantity:</label>
+                            <InputNumber id="qty" @bind-Value="Product.Qty" class="form-control" />
+                            <ValidationMessage For="() => Product.Qty" class="text-danger" />
+                        </div>
+
+                        <div class="d-flex justify-content-between">
+                            <button type="submit" class="btn btn-primary px-4 py-2">
+                                <i class="bi bi-save"></i> Save
+                            </button>
+                            <a href="/products" class="btn btn-secondary px-4 py-2">
+                                <i class="bi bi-arrow-left"></i> Back to List
+                            </a>
+                        </div>
+                    </EditForm>
+                </div>
+            </div>
+    }
+</div>
+
+@code {
+    [SupplyParameterFromQuery]
+    private Guid Id { get; set; }
+
+    [SupplyParameterFromForm]
+    private Product? Product { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        Product ??= await context.Product.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (Product is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+
+    private async Task UpdateProduct()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Attach(Product!).State = EntityState.Modified;
+
+        try
+        {
+            await context.SaveChangesAsync();
+        }
+        catch (DbUpdateConcurrencyException)
+        {
+            if (!ProductExists(Product!.Id))
+            {
+                NavigationManager.NavigateTo("notfound");
+            }
+            else
+            {
+                throw;
+            }
+        }
+
+        NavigationManager.NavigateTo("/products");
+    }
+
+    private bool ProductExists(Guid id)
+    {
+        using var context = DbFactory.CreateDbContext();
+        return context.Product.Any(e => e.Id == id);
+    }
+}

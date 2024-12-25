@@ -1,0 +1,63 @@
+﻿@page "/products/create"
+@using Microsoft.EntityFrameworkCore
+@using CrudOprUsingBlazor.Models
+@inject IDbContextFactory<CrudOprUsingBlazor.Data.MyAppDB> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Create Product</PageTitle>
+
+<h1 class="text-center my-4">Create Product</h1>
+
+<div class="container">
+    <h2 class="mb-4">Product Details</h2>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <EditForm method="post" Model="Product" OnValidSubmit="AddProduct" FormName="create" Enhance>
+                <DataAnnotationsValidator />
+                <ValidationSummary class="text-danger" role="alert" />
+
+                <div class="mb-3">
+                    <label for="name" class="form-label">Product Name:</label>
+                    <InputText id="name" @bind-Value="Product.name" class="form-control" />
+                    <ValidationMessage For="() => Product.name" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="price" class="form-label">Price:</label>
+                    <InputNumber id="price" @bind-Value="Product.price" class="form-control" />
+                    <ValidationMessage For="() => Product.price" class="text-danger" />
+                </div>
+
+                <div class="mb-3">
+                    <label for="qty" class="form-label">Quantity:</label>
+                    <InputNumber id="qty" @bind-Value="Product.Qty" class="form-control" />
+                    <ValidationMessage For="() => Product.Qty" class="text-danger" />
+                </div>
+
+                <div class="text-center">
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+<br />
+
+<div class="text-center">
+    <a href="/products" class="btn btn-outline-secondary">Back to List</a>
+</div>
+
+@code {
+    [SupplyParameterFromForm]
+    private Product Product { get; set; } = new();
+
+    private async Task AddProduct()
+    {
+        using var context = DbFactory.CreateDbContext();
+        context.Product.Add(Product);
+        await context.SaveChangesAsync();
+        NavigationManager.NavigateTo("/products");
+    }
+}

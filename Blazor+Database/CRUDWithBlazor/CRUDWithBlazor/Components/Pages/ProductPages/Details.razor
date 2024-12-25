@@ -1,0 +1,61 @@
+﻿@page "/products/details"
+@using Microsoft.EntityFrameworkCore
+@using CRUDWithBlazor.Models
+@inject IDbContextFactory<CRUDWithBlazor.Data.DBContext> DbFactory
+@inject NavigationManager NavigationManager
+
+<PageTitle>Product Details</PageTitle>
+
+<div class="container mt-5">
+    <h1 class="text-center text-primary">Product Details</h1>
+    <hr />
+
+    @if (product is null)
+    {
+            <p class="text-muted text-center"><em>Loading...</em></p>
+    }
+    else
+    {
+            <div class="row justify-content-center">
+                <div class="col-md-6">
+                    <dl class="row bg-light p-4 rounded shadow-sm">
+                        <dt class="col-sm-4 fw-bold">Name</dt>
+                        <dd class="col-sm-8">@product.Name</dd>
+
+                        <dt class="col-sm-4 fw-bold">Price</dt>
+                        <dd class="col-sm-8">$@product.Price</dd>
+
+                        <dt class="col-sm-4 fw-bold">Quantity</dt>
+                        <dd class="col-sm-8">@product.Qty</dd>
+                    </dl>
+
+                    <div class="mt-4 d-flex justify-content-between">
+                        <a href="@($"/products/edit?id={product.Id}")" class="btn btn-warning px-4">
+                            <i class="bi bi-pencil-square"></i> Edit
+                        </a>
+                        <a href="/products" class="btn btn-secondary px-4">
+                            <i class="bi bi-arrow-left"></i> Back to List
+                        </a>
+                    </div>
+                </div>
+            </div>
+    }
+</div>
+
+@code {
+    private Product? product;
+
+    [SupplyParameterFromQuery]
+    private Guid Id { get; set; }
+
+    protected override async Task OnInitializedAsync()
+    {
+        using var context = DbFactory.CreateDbContext();
+        product = await context.Product.FirstOrDefaultAsync(m => m.Id == Id);
+
+        if (product is null)
+        {
+            NavigationManager.NavigateTo("notfound");
+        }
+    }
+}

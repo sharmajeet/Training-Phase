@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Training\\Blazor+Database\\CRUDWithBlazor\\CRUDWithBlazor\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CRUDWithBlazor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CRUDWithBlazor.f03dkcmpvg.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Training\\Blazor+Database\\CRUDWithBlazor\\CRUDWithBlazor\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\Training\\Blazor+Database\\CRUDWithBlazor\\CRUDWithBlazor\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Training\\Blazor+Database\\CRUDWithBlazor\\CRUDWithBlazor\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Training\\Blazor+Database\\CRUDWithBlazor\\CRUDWithBlazor\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDWithBlazor.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CRUDWithBlazor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CRUDWithBlazor.props",
+      "PackagePath": "build\\CRUDWithBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRUDWithBlazor.props",
+      "PackagePath": "buildMultiTargeting\\CRUDWithBlazor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRUDWithBlazor.props",
+      "PackagePath": "buildTransitive\\CRUDWithBlazor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
