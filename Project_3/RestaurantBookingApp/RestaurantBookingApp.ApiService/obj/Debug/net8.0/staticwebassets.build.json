@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "omXtg8spAEC26sUmJZ092s5DBcPLH4XTK7hNWkEvgAg=",
+  "Source": "RestaurantBookingApp.ApiService",
+  "BasePath": "_content/RestaurantBookingApp.ApiService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

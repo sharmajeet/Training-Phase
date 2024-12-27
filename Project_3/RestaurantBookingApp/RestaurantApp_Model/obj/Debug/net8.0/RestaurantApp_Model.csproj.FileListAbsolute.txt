@@ -1,0 +1,14 @@
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\bin\Debug\net8.0\RestaurantApp_Model.deps.json
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\bin\Debug\net8.0\RestaurantApp_Model.runtimeconfig.json
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\bin\Debug\net8.0\RestaurantApp_Model.dll
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\bin\Debug\net8.0\RestaurantApp_Model.pdb
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.csproj.AssemblyReference.cache
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.AssemblyInfoInputs.cache
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.AssemblyInfo.cs
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.csproj.CoreCompileInputs.cache
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.dll
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\refint\RestaurantApp_Model.dll
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.pdb
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\RestaurantApp_Model.genruntimeconfig.cache
+D:\Garbage\RestaurantBookingApp\RestaurantApp_Model\obj\Debug\net8.0\ref\RestaurantApp_Model.dll

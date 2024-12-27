@@ -1,0 +1,39 @@
+﻿@page "/table"
+<h3>IndexTables</h3>
+
+@if (TableModals == null)
+{
+	<p>Loading...</p>
+}
+else {
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Table ID</th>
+                <th>Table Name</th>
+                <th>Capacity</th>
+                <th>Status</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var table in TableModals)
+            {
+                <tr>
+                    <td>@table.Id</td>
+                    <td>@table.Name</td>
+                    <td>@table.Capacity</td>
+                    <td>
+                        <span class="badge @(table.IsBooked ? "bg-danger" : "bg-success")">
+                            @(table.IsBooked ? "Booked" : "Available")
+                        </span>
+                    </td>
+                    <td>
+                        <a class="btn btn-secondary">Update</a>
+                        <button class="btn btn-danger" >Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
