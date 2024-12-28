@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestaurantBookingApp.ApiService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4814f16ac5ae5ba1371e5c55b7739b615f06c6d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestaurantBookingApp.ApiService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestaurantBookingApp.ApiService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

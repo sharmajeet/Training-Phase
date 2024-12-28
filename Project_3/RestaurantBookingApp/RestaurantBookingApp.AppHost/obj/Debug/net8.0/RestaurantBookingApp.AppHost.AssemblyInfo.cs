@@ -18,14 +18,14 @@ using System.Reflection;
     "xt\\")]
 [assembly: System.Reflection.AssemblyMetadata("dcpbinpath", "C:\\Users\\jeetd\\.nuget\\packages\\aspire.hosting.orchestration.win-x64\\9.0.0\\tools\\e" +
     "xt\\bin\\")]
-[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.AppHost")]
+[assembly: System.Reflection.AssemblyMetadata("apphostprojectpath", "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.AppHost")]
 [assembly: System.Reflection.AssemblyMetadata("apphostprojectname", "RestaurantBookingApp.AppHost.csproj")]
 [assembly: System.Reflection.AssemblyMetadata("aspiredashboardpath", "C:\\Users\\jeetd\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\tools\\Aspire.Da" +
     "shboard.exe")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("RestaurantBookingApp.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4814f16ac5ae5ba1371e5c55b7739b615f06c6d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("RestaurantBookingApp.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RestaurantBookingApp.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

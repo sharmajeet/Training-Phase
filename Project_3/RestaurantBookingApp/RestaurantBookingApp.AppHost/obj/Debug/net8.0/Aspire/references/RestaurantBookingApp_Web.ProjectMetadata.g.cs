@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class RestaurantBookingApp_Web : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """D:\Garbage\RestaurantBookingApp\RestaurantBookingApp.Web\RestaurantBookingApp.Web.csproj""";
+    public string ProjectPath => """D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.Web\RestaurantBookingApp.Web.csproj""";
 }

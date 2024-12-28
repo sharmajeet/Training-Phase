@@ -6867,11 +6867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.AppHost\\RestaurantBookingApp.AppHost.csproj",
+      "projectUniqueName": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.AppHost\\RestaurantBookingApp.AppHost.csproj",
       "projectName": "RestaurantBookingApp.AppHost",
-      "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.AppHost\\RestaurantBookingApp.AppHost.csproj",
+      "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.AppHost\\RestaurantBookingApp.AppHost.csproj",
       "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-      "outputPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.AppHost\\obj\\",
+      "outputPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.AppHost\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

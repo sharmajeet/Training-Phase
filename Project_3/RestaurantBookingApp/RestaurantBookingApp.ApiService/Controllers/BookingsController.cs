@@ -18,34 +18,56 @@ namespace RestaurantBookingApp.ApiService.Controllers
             return Ok(new BaseResponseModel { Success = true, Data = Bookings });
         }
 
-
-        // POST request to create a new booking
         [HttpPost]
         public async Task<ActionResult<BaseResponseModel>> CreateBooking([FromBody] BookingsModel newBooking)
         {
-            if (newBooking == null) 
+            if (newBooking == null)
             {
                 return BadRequest(new BaseResponseModel { Success = false, ErrorMessage = "Invalid booking data" });
             }
 
             try
             {
-                var createdBooking = await bookingService.CreateBooking(newBooking);
-
-                if (createdBooking == null)
+                // Ensure all required properties are provided
+                if (string.IsNullOrWhiteSpace(newBooking.CustomerName) ||
+                    string.IsNullOrWhiteSpace(newBooking.ContactNumber) ||
+                    newBooking.Date == default ||
+                    newBooking.Time == default)
                 {
-                    return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponseModel { Success = false, ErrorMessage = "Failed to create booking" });
+                    return BadRequest(new BaseResponseModel { Success = false, ErrorMessage = "Missing required booking details" });
                 }
 
-                return CreatedAtAction(nameof(GetBookings), new { id = createdBooking.Id }, new BaseResponseModel { Success = true, Data = createdBooking });
+                // Use the booking service to insert the new booking
+                var createdBooking = await bookingService.CreateBooking(newBooking);
+
+                // Check if the booking was successfully created
+                if (createdBooking == null)
+                {
+                    return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponseModel
+                    {
+                        Success = false,
+                        ErrorMessage = "Failed to create booking due to an internal server error"
+                    });
+                }
+
+                // Return a successful response with the newly created booking
+                return CreatedAtAction(nameof(GetBookings), new { id = createdBooking.Id }, new BaseResponseModel
+                {
+                    Success = true,
+                    Data = createdBooking
+                });
             }
             catch (Exception ex)
             {
-                //return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponseModel { Success = false, ErrorMessage = $"Error: {ex.Message}" });
-               
-                return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponseModel { Success = false, ErrorMessage = $"Error: {ex.Message}" });
+                // Handle unexpected errors
+                return StatusCode(StatusCodes.Status500InternalServerError, new BaseResponseModel
+                {
+                    Success = false,
+                    ErrorMessage = $"Unexpected error: {ex.Message}"
+                });
             }
         }
+
 
         // PUT: api/Bookings/{id}
         [HttpPut("{id}")]

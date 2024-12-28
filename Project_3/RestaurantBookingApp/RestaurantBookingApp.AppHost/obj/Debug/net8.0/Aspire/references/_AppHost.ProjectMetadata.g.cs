@@ -8,5 +8,5 @@ namespace Projects;
 public class RestaurantBookingApp_AppHost
 {
     private RestaurantBookingApp_AppHost() { }
-    public static string ProjectPath => """D:\Garbage\RestaurantBookingApp\RestaurantBookingApp.AppHost""";
+    public static string ProjectPath => """D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost""";
 }

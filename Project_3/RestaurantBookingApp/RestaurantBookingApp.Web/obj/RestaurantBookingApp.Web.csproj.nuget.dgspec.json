@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj": {}
+    "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj": {}
   },
   "projects": {
-    "D:\\Garbage\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj": {
+    "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Garbage\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj",
+        "projectUniqueName": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj",
         "projectName": "RestaurantApp_Model",
-        "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj",
+        "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantApp_Model\\obj\\",
+        "outputPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantApp_Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -102,14 +102,14 @@
         }
       }
     },
-    "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj": {
+    "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
+        "projectUniqueName": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
         "projectName": "RestaurantBookingApp.ServiceDefaults",
-        "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
+        "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\obj\\",
+        "outputPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -227,14 +227,14 @@
         }
       }
     },
-    "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj": {
+    "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj",
+        "projectUniqueName": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj",
         "projectName": "RestaurantBookingApp.Web",
-        "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj",
+        "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\RestaurantBookingApp.Web.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.Web\\obj\\",
+        "outputPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -256,11 +256,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Garbage\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj": {
-                "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj"
+              "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj": {
+                "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantApp_Model\\RestaurantApp_Model.csproj"
               },
-              "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj": {
-                "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj"
+              "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj": {
+                "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj"
               }
             }
           }

@@ -6554,11 +6554,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
+      "projectUniqueName": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
       "projectName": "RestaurantBookingApp.ServiceDefaults",
-      "projectPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
+      "projectPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\RestaurantBookingApp.ServiceDefaults.csproj",
       "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-      "outputPath": "D:\\Garbage\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\obj\\",
+      "outputPath": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.ServiceDefaults\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

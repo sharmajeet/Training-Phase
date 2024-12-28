@@ -17,53 +17,61 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RestaurantBookingApp.Web
 build_property.RootNamespace = RestaurantBookingApp.Web
-build_property.ProjectDir = D:\Garbage\RestaurantBookingApp\RestaurantBookingApp.Web\
+build_property.ProjectDir = D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Garbage\RestaurantBookingApp\RestaurantBookingApp.Web
+build_property.MSBuildProjectDirectory = D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.Web
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/App.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/IndexBooking.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/EditBooking.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29raW5nc1xFZGl0Qm9va2luZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/IndexBooking.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29raW5nc1xJbmRleEJvb2tpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Counter.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/ListBookings.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29raW5nc1xMaXN0Qm9va2luZ3MucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Error.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Home.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Tables/IndexTables.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Tables/IndexTables.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWJsZXNcSW5kZXhUYWJsZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Routes.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/_Imports.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Layout/MainLayout.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-378k67x8mn
 
-[D:/Garbage/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Layout/NavMenu.razor]
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-7tn27hkipc
