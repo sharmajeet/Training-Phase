@@ -53,7 +53,18 @@ namespace Restaurant_BL.Repositories
         public Task<List<BookingModel>> GetBookings()
         {
             return dbContext.Bookings.ToListAsync();
+            //return dbContext.Tables.ToListAsync();
         }
+
+        //public async Task<List<BookingModel>> GetBookings()
+        //{
+        //    var bookings = await dbContext.Bookings
+        //                                    .Include(b => b.Table)  // Eagerly load the related Table entity
+        //                                    .ToListAsync();
+        //    Console.WriteLine("Bookings : " , bookings);
+
+        //    return bookings;
+        //}
 
         public async Task UpdateBooking(BookingModel bookingModel)
         {

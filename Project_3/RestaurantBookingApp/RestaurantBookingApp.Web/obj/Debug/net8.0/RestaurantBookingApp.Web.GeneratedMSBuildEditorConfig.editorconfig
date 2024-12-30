@@ -32,18 +32,6 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/EditBooking.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29raW5nc1xFZGl0Qm9va2luZy5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/IndexBooking.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29raW5nc1xJbmRleEJvb2tpbmcucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Bookings/ListBookings.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCb29raW5nc1xMaXN0Qm9va2luZ3MucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
@@ -54,6 +42,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Tables/CreateTable.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUYWJsZXNcQ3JlYXRlVGFibGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Training/Project_3/RestaurantBookingApp/RestaurantBookingApp.Web/Components/Pages/Tables/IndexTables.razor]

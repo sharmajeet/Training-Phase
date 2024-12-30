@@ -10,7 +10,7 @@ namespace Restaurant_BL.Services
 {
     public interface ITableServices
     {
-        Task<List<TableModel>> GetTables();
+        Task<List<TableModel>> GetTables(); 
         Task<TableModel> CreateTable(TableModel tableModel);
 
         Task<TableModel> GetTables(int Id);

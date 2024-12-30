@@ -17,7 +17,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5820"
+          "Value": "5888"
         },
         {
           "Name": "Content-Type",
@@ -25,22 +25,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw=\""
+          "Value": "\"WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 06:26:40 GMT"
+          "Value": "Sat, 28 Dec 2024 08:58:34 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw="
+          "Value": "sha256-WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs="
         }
       ]
     },
     {
-      "Route": "RestaurantBookingApp.Web.w1fx9jzfku.styles.css",
+      "Route": "RestaurantBookingApp.Web.y2jzxsko1s.styles.css",
       "AssetFile": "RestaurantBookingApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -54,7 +58,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5820"
+          "Value": "5888"
         },
         {
           "Name": "Content-Type",
@@ -62,25 +66,66 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw=\""
+          "Value": "\"WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 06:26:40 GMT"
+          "Value": "Sat, 28 Dec 2024 08:58:34 GMT"
+        },
+        {
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w1fx9jzfku"
+          "Value": "y2jzxsko1s"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw="
+          "Value": "sha256-WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs="
         },
         {
           "Name": "label",
           "Value": "RestaurantBookingApp.Web.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "AssetFile": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Mar 2024 16:42:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4="
         }
       ]
     },

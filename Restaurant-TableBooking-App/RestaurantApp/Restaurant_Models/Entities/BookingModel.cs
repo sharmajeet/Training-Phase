@@ -12,7 +12,7 @@ namespace Restaurant_Models.Entities
     {
         public int Id { get; set; }
 
-        public int TableId { get; set; } // Foreign key to TableModel
+        public int TableId { get; set; } 
 
         // Navigation property to TableModel
         public TableModel Table { get; set; } = new TableModel { Name = string.Empty };// Corrected reference to TableModel

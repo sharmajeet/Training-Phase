@@ -12,59 +12,25 @@ namespace RestaaurantApp_BL.Repository
     public interface ITableRespository
     {
         Task<List<TableModal>> GetTables();
-        Task<TableModal> AddTable(TableModal table);
-
-        Task<TableModal> UpdateTable(TableModal table);
-
-        Task<bool> DeleteTable(int id);  
+        Task<TableModal> CreateTable(TableModal tableModal);
+      
     }
     public class TableRespository(AppDbContext dbContext) : ITableRespository
     {
         public Task<List<TableModal>> GetTables()
         {
-            return dbContext.Tables.ToListAsync();
+            return dbContext.Table.ToListAsync();
         }
+        
 
-        //post for table
-        public async Task<TableModal> AddTable(TableModal table)
+        public async Task<TableModal> CreateTable(TableModal tableModal)
         {
-            await dbContext.Tables.AddAsync(table);
+            dbContext.Table.Add(tableModal);
             await dbContext.SaveChangesAsync();
-            return table;
+            return tableModal;
         }
 
-        //update 
-        public async Task<TableModal> UpdateTable(TableModal table)
-        {
-            var existingTable = await dbContext.Tables.FindAsync(table.Id);
-            if (existingTable == null)
-            {
-                return null; // Table not found
-            }
-
-            // Update the properties of the existing table
-            existingTable.Name = table.Name;
-            existingTable.Capacity = table.Capacity;
-            existingTable.IsBooked = table.IsBooked;
-
-            // Save changes to the database
-            await dbContext.SaveChangesAsync();
-            return existingTable;
-        }
-
-        //Delete
-        public async Task<bool> DeleteTable(int id)
-        {
-            var table = await dbContext.Tables.FindAsync(id);
-            if (table == null)
-            {
-                return false; // Table not found
-            }
-
-            dbContext.Tables.Remove(table);
-            await dbContext.SaveChangesAsync();
-            return true;
-        }
+       
     }
 
 }

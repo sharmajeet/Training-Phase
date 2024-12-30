@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yLCgkeETWMO5jU0T/RrbNYV87gqtTS3rWEMCaDzyf2w=",
+  "Hash": "O8zE6kD3B8l1+nqwli+gkPaSA0eKGJ9gj2koN3MRHkQ=",
   "Source": "RestaurantApp.ApiService",
   "BasePath": "_content/RestaurantApp.ApiService",
   "Mode": "Default",
@@ -30,10 +30,10 @@
       "OriginalItemSpec": "C:\\Users\\jeetd\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
+      "Identity": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
       "SourceId": "RestaurantApp.ApiService",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RestaurantApp.ApiService",
       "RelativePath": "RestaurantApp.ApiService#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -48,7 +48,7 @@
       "Integrity": "vcRbcyM3HHt7VoDapZ115UZ/VPjqM/EhnePJ265Vn7c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css"
+      "OriginalItemSpec": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css"
     }
   ],
   "Endpoints": [
@@ -91,7 +91,7 @@
     },
     {
       "Route": "RestaurantApp.ApiService.d0v7cczv69.styles.css",
-      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
+      "AssetFile": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -116,7 +116,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 08:27:26 GMT"
+          "Value": "Mon, 30 Dec 2024 07:09:57 GMT"
         },
         {
           "Name": "Link",
@@ -140,7 +140,7 @@
     },
     {
       "Route": "RestaurantApp.ApiService.styles.css",
-      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
+      "AssetFile": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -165,7 +165,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 30 Dec 2024 08:27:26 GMT"
+          "Value": "Mon, 30 Dec 2024 07:09:57 GMT"
         },
         {
           "Name": "Link",

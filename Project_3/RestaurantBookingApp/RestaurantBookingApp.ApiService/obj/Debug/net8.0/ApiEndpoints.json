@@ -131,48 +131,21 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "table",
+        "Name": "tableModal",
         "Type": "RestaurantApp_Model.Entities.TableModal",
         "IsRequired": true
       }
     ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RestaurantBookingApp.ApiService.Controllers.TableController",
-    "Method": "UpdateTable",
-    "RelativePath": "api/Table/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
+    "ReturnTypes": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "table",
         "Type": "RestaurantApp_Model.Entities.TableModal",
-        "IsRequired": true
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
       }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "RestaurantBookingApp.ApiService.Controllers.TableController",
-    "Method": "DeleteTable",
-    "RelativePath": "api/Table/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
+    ]
   }
 ]

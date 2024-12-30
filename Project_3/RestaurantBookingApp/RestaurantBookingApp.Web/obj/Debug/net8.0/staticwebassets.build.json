@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HeEHitN3biVOavp5uJZdPPbRKpVrmU/lKwMn5aLCgIo=",
+  "Hash": "QPvOHbBpYeLj0SpKCURoYQonDbQq653FJLXh1IGgFqY=",
   "Source": "RestaurantBookingApp.Web",
   "BasePath": "_content/RestaurantBookingApp.Web",
   "Mode": "Default",
@@ -17,6 +17,27 @@
   ],
   "Assets": [
     {
+      "Identity": "C:\\Users\\jeetd\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "SourceId": "Blazored.Toast",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\jeetd\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\",
+      "BasePath": "_content/Blazored.Toast",
+      "RelativePath": "Blazored.Toast.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "2eijknf10w",
+      "Integrity": "Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jeetd\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css"
+    },
+    {
       "Identity": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantBookingApp.Web.styles.css",
       "SourceId": "RestaurantBookingApp.Web",
       "SourceType": "Computed",
@@ -31,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "w1fx9jzfku",
-      "Integrity": "dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw=",
+      "Fingerprint": "y2jzxsko1s",
+      "Integrity": "WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantBookingApp.Web.styles.css"
@@ -1026,6 +1047,43 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "_content/Blazored.Toast/Blazored.Toast.bundle.scp.css",
+      "AssetFile": "C:\\Users\\jeetd\\.nuget\\packages\\blazored.toast\\4.2.1\\staticwebassets\\Blazored.Toast.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 19 Mar 2024 16:42:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jpy8GsZRrXfBBSxMmBBAzhap27c5/Nt85Nt7V3JT3B4="
+        }
+      ]
+    },
     {
       "Route": "app.2iupjpolhe.css",
       "AssetFile": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\wwwroot\\app.css",
@@ -4845,8 +4903,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "5820"
+          "Value": "5888"
         },
         {
           "Name": "Content-Type",
@@ -4854,21 +4916,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw=\""
+          "Value": "\"WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 06:26:40 GMT"
+          "Value": "Sat, 28 Dec 2024 08:58:34 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw="
+          "Value": "sha256-WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs="
         }
       ]
     },
@@ -4918,7 +4980,7 @@
       ]
     },
     {
-      "Route": "RestaurantBookingApp.Web.w1fx9jzfku.styles.css",
+      "Route": "RestaurantBookingApp.Web.y2jzxsko1s.styles.css",
       "AssetFile": "D:\\Training\\Project_3\\RestaurantBookingApp\\RestaurantBookingApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantBookingApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4927,8 +4989,12 @@
           "Value": "bytes"
         },
         {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
           "Name": "Content-Length",
-          "Value": "5820"
+          "Value": "5888"
         },
         {
           "Name": "Content-Type",
@@ -4936,29 +5002,29 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw=\""
+          "Value": "\"WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 27 Dec 2024 06:26:40 GMT"
+          "Value": "Sat, 28 Dec 2024 08:58:34 GMT"
         },
         {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Name": "Link",
+          "Value": "<_content/Blazored.Toast/Blazored.Toast.bundle.scp.css>; rel=\"preload\"; as=\"style\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "w1fx9jzfku"
+          "Value": "y2jzxsko1s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WjzlC1cusoAq85RQdZlfGs/liq42ZREStskicRBQxqs="
         },
         {
           "Name": "label",
           "Value": "RestaurantBookingApp.Web.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-dI/Zpx98cIkI+1n2QRKupvU2KpciEYr6ldvZ/DwM5tw="
         }
       ]
     }

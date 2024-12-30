@@ -11,35 +11,26 @@ namespace RestaaurantApp_BL.Services
     public interface ITableService
     {
          Task<List<TableModal>> GetTables();
-        Task<TableModal> AddTable(TableModal table);
 
-        Task<TableModal> UpdateTable(TableModal table);
-
-        Task<bool> DeleteTable(int id);
+        Task<TableModal> CreateTable(TableModal tableModal);
+       
     }
     public class TableService(ITableRespository tableRepository) : ITableService
     {
+
         public Task<List<TableModal>> GetTables()
         {
             return tableRepository.GetTables();
         }
-        //psot for table
-        public Task<TableModal> AddTable(TableModal table)
+        public Task<TableModal> CreateTable(TableModal tableModal)
         {
-            return tableRepository.AddTable(table);
+           return tableRepository.CreateTable(tableModal);
         }
 
-        //update
-        public Task<TableModal> UpdateTable(TableModal table)
-        {
-            return tableRepository.UpdateTable(table);
-        }
+        
 
-        //delete
-        public Task<bool> DeleteTable(int id)
-        {
-            return tableRepository.DeleteTable(id);
-        }
+      
 
+        
     }
 }

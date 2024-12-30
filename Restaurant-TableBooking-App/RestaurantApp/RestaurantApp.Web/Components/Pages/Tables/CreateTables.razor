@@ -25,26 +25,70 @@
                         </div>
                     </div>
 
-                    <div class="col-md-6">
-                        <div class="form-group">
-                            <label for="name" class="form-label">Table Name</label>
-                            <InputText class="form-control" @bind-Value="Model.Name" id="name" />
-                            <ValidationMessage For="() => Model.Name" />
-                        </div>
-                    </div>
+                    @* <div class="col-md-6"> *@
+                    @*     <div class="form-group"> *@
+                    @*         <label for="name" class="form-label">Table Type</label> *@
+                    @*         <InputText class="form-control" @bind-Value="Model.Name" id="name" /> *@
+                    @*         <ValidationMessage For="() => Model.Name" /> *@
+                    @*     </div> *@
+                    @* </div> *@
 
                     <div class="col-md-6">
                         <div class="form-group">
+                            <label for="tableType" class="form-label">Table Type</label>
+                            <InputSelect class="form-control" @bind-Value="Model.Name" id="tableType">
+                                <option value="">Select Table Type</option>
+                                <option value="Corner">Corner</option>
+                                <option value="Center">Center</option>
+                                <option value="Window">Window</option>
+                                <option value="Booth">Booth</option>
+                                <option value="Bar">Bar</option>
+                                <option value="Outdoor">Outdoor</option>
+                                
+                            </InputSelect>
+                        </div>
+                    </div>
+                    @* <div class="col-md-6"> *@
+                    @*     <div class="form-group"> *@
+                    @*         <label for="tableTag" class="form-label">Table Tag</label> *@
+                    @*         <InputText class="form-control" @bind-Value="Model.TableTag" id="tableTag" /> *@
+                    @*         <ValidationMessage For="() => Model.TableTag" /> *@
+                    @*     </div> *@
+                    @* </div> *@
+                    <!-- Table Type Selection -->
+                    <div class="col-md-6">
+                        <div class="form-group">
                             <label for="tableTag" class="form-label">Table Tag</label>
-                            <InputText class="form-control" @bind-Value="Model.TableTag" id="tableTag" />
+                            <InputSelect class="form-control" @bind-Value="Model.TableTag" id="tableTag">
+                                <option value="">-- Select Table Tag --</option>
+                                <option value="Regular">Regular</option>
+                                <option value="Family">Family</option>
+                                <option value="Couple">Couple</option>
+                                <option value="VIP">VIP</option>
+                                <option value="Outdoor">Outdoor</option>
+                            </InputSelect>
                             <ValidationMessage For="() => Model.TableTag" />
                         </div>
                     </div>
 
+                    @* <div class="col-md-6"> *@
+                    @*     <div class="form-group"> *@
+                    @*         <label for="capacity" class="form-label">Capacity</label> *@
+                    @*         <InputNumber class="form-control" @bind-Value="Model.Capacity" id="capacity" /> *@
+                    @*         <ValidationMessage For="() => Model.Capacity" /> *@
+                    @*     </div> *@
+                    @* </div> *@
+
                     <div class="col-md-6">
                         <div class="form-group">
                             <label for="capacity" class="form-label">Capacity</label>
-                            <InputNumber class="form-control" @bind-Value="Model.Capacity" id="capacity" />
+                            <InputSelect class="form-control" @bind-Value="Model.Capacity" id="capacity">
+                                <option value="">Select Capacity</option>
+                                @for (int i = 2; i <= 20; i += 2)  
+                                {
+                                    <option value="@i">@i</option>
+                                }
+                            </InputSelect>
                             <ValidationMessage For="() => Model.Capacity" />
                         </div>
                     </div>

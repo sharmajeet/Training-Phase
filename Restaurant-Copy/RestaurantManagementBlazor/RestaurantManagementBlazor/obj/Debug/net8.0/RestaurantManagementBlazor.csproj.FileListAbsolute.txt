@@ -1,5 +1,0 @@
-D:\Restaurant-\RestaurantManagementBlazor\RestaurantManagementBlazor\obj\Debug\net8.0\RestaurantManagementBlazor.GeneratedMSBuildEditorConfig.editorconfig
-D:\Restaurant-\RestaurantManagementBlazor\RestaurantManagementBlazor\obj\Debug\net8.0\RestaurantManagementBlazor.AssemblyInfoInputs.cache
-D:\Restaurant-\RestaurantManagementBlazor\RestaurantManagementBlazor\obj\Debug\net8.0\RestaurantManagementBlazor.AssemblyInfo.cs
-D:\Restaurant-\RestaurantManagementBlazor\RestaurantManagementBlazor\obj\Debug\net8.0\RestaurantManagementBlazor.csproj.CoreCompileInputs.cache
-D:\Restaurant-\RestaurantManagementBlazor\RestaurantManagementBlazor\obj\Debug\net8.0\RestaurantManagementBlazor.MvcApplicationPartsAssemblyInfo.cache

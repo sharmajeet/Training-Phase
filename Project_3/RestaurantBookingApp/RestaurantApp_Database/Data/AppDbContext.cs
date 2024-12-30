@@ -15,7 +15,7 @@ namespace RestaurantApp_Database.Data
             Database.EnsureCreated();
         }
 
-        public DbSet<TableModal> Tables { get; set; }
+        public DbSet<TableModal> Table { get; set; }
         public DbSet<BookingsModel> Bookings { get; set; }
 
     }

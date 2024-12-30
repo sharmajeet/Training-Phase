@@ -1,0 +1,62 @@
+﻿@page "/table"
+
+<p class="text-center text-primary shadow-lg p-2 mb-2 bg-light-subtle rounded fs-1"
+   style="font-family: 'Arial, sans-serif'; font-weight: bold; letter-spacing: 1px;">
+    List Of All Tables
+</p>
+
+
+
+@if (tableModels == null)
+{
+    <p>Loading...</p>
+}
+else
+{
+    <a class="btn btn-primary float-end" href="/table/create">Create</a>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Table ID</th>
+                <th>Table Name</th>
+                <th>Table Tag</th>
+                <th>Capacity</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var table in tableModels)
+            {
+                <tr>
+                    <td>@table.TableId</td>
+                    <td>@table.Name</td>
+                    <td>@table.TableTag</td>
+                    <td>@table.Capacity</td>
+                    <td>
+                        <span class="badge @(table.IsBooked ? "bg-danger" : "bg-success")">
+                            @(table.IsBooked ? "Booked" : "Available")
+                        </span>
+                    </td>
+                    <td>
+                        <a class="btn btn-secondary" href="/table/update/@table.Id">Update</a>
+                        <button class="btn btn-danger" @onclick="() => {DeleteId = table.Id; Model.Open();}">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<AppModel @ref="Model">
+    <Title>Notification</Title>
+    <Body>
+        Do you sure want to Delete this table?
+    </Body>
+    <Footer>
+        <button type="button" class="btn btn-primary" style="width:80px" @onclick="HandleDelete">Yes</button>
+        <button type="button" class="btn btn-secondary" data-dismiss="Model" style="width:80px" @onclick="() => Model.Close()">Cancel</button>
+
+    </Footer>
+</AppModel>

@@ -11,7 +11,7 @@ namespace Restaurant_BL.Services
     public interface IBookingService
     {
         Task<List<BookingModel>> GetBookings();
-        Task<BookingModel>CreateBooking(BookingModel bookingModel);
+        Task<BookingModel> CreateBooking(BookingModel bookingModel);
 
         Task<BookingModel> GetBooking(int Id);
 
@@ -19,9 +19,6 @@ namespace Restaurant_BL.Services
         Task UpdateBooking(BookingModel bookingModel);
 
         Task DeleteBooking(int Id);
-
-        
-
 
     }
     public class BookingService(IBookingRepository bookingRepository) : IBookingService

@@ -431,3 +431,11 @@ D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\obj\D
 D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\obj\Debug\net8.0\RestaurantBookingApp.ApiService.pdb
 D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\obj\Debug\net8.0\RestaurantBookingApp.ApiService.genruntimeconfig.cache
 D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\obj\Debug\net8.0\ref\RestaurantBookingApp.ApiService.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\RestaurantBookingApp.ApiService.staticwebassets.runtime.json
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Blazored.Toast.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.ApiService\bin\Debug\net8.0\Microsoft.JSInterop.dll

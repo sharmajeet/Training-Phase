@@ -14,56 +14,55 @@
 }
 else
 {
-	<a class="btn btn-primary float-end" href="/booking/create">Create</a>
-	<table class="table table-striped">
-		<thead>
-			<tr>
-				<th>Table ID</th>
-				<th>Table Name</th>
-				<th>CustomerName</th>
-				<th>ContactNumber</th>
-				<th>Date</th>
-				<th>Time</th>
-				<th>Action</th>
-			</tr>
-		</thead>
-		<tbody>
-			@foreach (var booking in BookingModels)
-			{
-				<tr>
+    <a class="btn btn-primary float-end" href="/booking/create">Create</a>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Table ID</th>
+                <th>Table Name</th>
+                <th>CustomerName</th>
+                <th>ContactNumber</th>
+                <th>Date</th>
+                <th>Time</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var booking in BookingModels)
+            {
+                <tr>
+                    <td>@booking.TableId</td>
+                    <td>
+                        @if (TableModels != null)
+                        {
+                            var table = TableModels.FirstOrDefault(t => t.TableId == booking.TableId);
+                            if (table != null)
+                            {
+                                <div>
+                                    <strong>@table.Name</strong><br />
+                                    <span>Table Tag: @table.TableTag</span><br />
+                                    <span>Capacity: @table.Capacity</span> <!-- Assuming 'Capacity' is another property of Table -->
+                                </div>
+                            }
+                            else
+                            {
+                                <span>No table found</span>
+                            }
+                        }
+                    </td>
+                    <td>@booking.CustomerName</td>
+                    <td>@booking.ContactNumber</td>
+                    <td>@booking.Date.ToString("dd-MM-yyyy")</td>
+                    <td>@booking.Time</td>
+                    <td>
+                        <a class="btn btn-secondary" href="/booking/update/@booking.Id">Update</a>
+                        <button class="btn btn-danger" @onclick="() => {DeleteId = booking.Id; Model.Open();}">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
 
-					<td>@booking.TableId</td>
-					<td>Table Name</td>
-
-					@* <!-- Find matching table based on TableId --> *@
-					@* <td> *@
-					@* 	@if (TableModels != null) *@
-					@* 	{ *@
-					@* 		var table = TableModels.FirstOrDefault(t => t.TableId == booking.TableId); *@
-					@* 		if (table != null) *@
-					@* 		{ *@
-					@* 			@table.Name *@
-					@* 			@table.TableTag *@
-					@* } *@
-					@* 		else *@
-					@* 		{ *@
-					@* 			<span>No table found</span> *@
-					@* 		} *@
-					@* 	} *@
-					@* </td> *@
-
-					<td>@booking.CustomerName</td>
-					<td>@booking.ContactNumber</td>
-					<td>@booking.Date.ToString("dd-MM-yyyy")</td>
-					<td>@booking.Time</td>
-					<td>
-						<a class="btn btn-secondary" href="/booking/update/@booking.Id">Update</a>
-						<button class="btn btn-danger" @onclick="() => {DeleteId = booking.Id; Model.Open();}">Delete</button>
-					</td>
-				</tr>
-			}
-		</tbody>
-	</table>
 
 
 }

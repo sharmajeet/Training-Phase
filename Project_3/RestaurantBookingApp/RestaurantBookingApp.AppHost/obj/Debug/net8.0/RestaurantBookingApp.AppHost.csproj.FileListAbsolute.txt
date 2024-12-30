@@ -417,3 +417,10 @@ D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\obj\Debu
 D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\obj\Debug\net8.0\RestaurantBookingApp.AppHost.pdb
 D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\obj\Debug\net8.0\RestaurantBookingApp.AppHost.genruntimeconfig.cache
 D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\obj\Debug\net8.0\ref\RestaurantBookingApp.AppHost.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Blazored.Toast.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Training\Project_3\RestaurantBookingApp\RestaurantBookingApp.AppHost\bin\Debug\net8.0\Microsoft.JSInterop.dll

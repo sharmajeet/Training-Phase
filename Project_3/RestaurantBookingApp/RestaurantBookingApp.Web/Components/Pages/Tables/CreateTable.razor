@@ -1,0 +1,59 @@
+﻿@page "/table/create"
+<h3>CreateTable</h3>
+@rendermode InteractiveServer
+
+
+<EditForm Model="Modal" OnValidSubmit="Submit">
+	<div class="container">
+		<div class="row mb-3">
+
+			<div class="col-md-6">
+				<label>TableId</label>
+				<InputNumber class="form-control" @bind-Value=Modal.TableId></InputNumber>
+				<ValidationMessage For="() => Modal.TableId" />
+			</div>
+
+			<div class="col-md-6">
+				<label>TableName</label>
+				<InputText class="form-control" @Bind-Value="Modal.Name" />
+				<ValidationMessage For="() => Modal.Name" />
+			</div>
+
+			<div class="col-md-6">
+				<label>Capacity:</label>
+				<InputText class="form-control" @Bind-Value="Modal.Capacity" />
+				<ValidationMessage For="() => Modal.Capacity" />
+			</div>
+
+			<div class="col-md-6">
+				<label>IsBooked</label>
+				<InputCheckbox class="form-control" @bind-Value=Modal.IsBooked></InputCheckbox>
+				<ValidationMessage For="() => Modal.IsBooked" />
+			</div>
+
+
+		</div>
+		<button class="btn btn-secondary" type="submit">Save</button>
+
+	</div>
+
+</EditForm>
+
+
+@* <EditForm Model="Modal" > *@
+@*     <div> *@
+@*         <label for="name">Name:</label> *@
+@*         <InputText id="name" @bind-Value="Modal.Name" class="form-control" /> *@
+@*     </div> *@
+@*     <div> *@
+@*         <label for="capacity">Capacity:</label> *@
+@*         <InputNumber id="capacity" @bind-Value="Modal.Capacity" class="form-control" /> *@
+@*     </div> *@
+@*     <div> *@
+@*         <label for="isBooked">Is Booked:</label> *@
+@*         <InputCheckbox id="isBooked" @bind-Value="Modal.IsBooked" /> *@
+@*     </div> *@
+
+@*     <button type="submit" class="btn btn-primary">Save</button> *@
+@*     <button type="button" class="btn btn-secondary" @onclick="Cancel">Cancel</button> *@
+@* </EditForm> *@

@@ -18,10 +18,24 @@
             <EditForm Model="Model"OnValidSubmit="Submit" >
                 <div class="row">
 
+                    @* <div class="col-md-6"> *@
+                    @*     <div class="form-group"> *@
+                    @*         <label for="tableId" class="form-label">Table Id</label> *@
+                    @*         <InputNumber class="form-control" @bind-Value="Model.TableId" id="tableId" /> *@
+                    @*         <ValidationMessage For="() => Model.TableId" /> *@
+                    @*     </div> *@
+                    @* </div> *@
+
                     <div class="col-md-6">
                         <div class="form-group">
                             <label for="tableId" class="form-label">Table Id</label>
-                            <InputNumber class="form-control" @bind-Value="Model.TableId" id="tableId" />
+                            <InputSelect class="form-control" @bind-Value="Model.TableId" id="tableId">
+                                <option value="">-- Select Table --</option>
+                                @foreach (var table in TableModels)
+                                {
+                                    <option value="@table.TableId">@table.Name (@table.TableId)</option>
+                                }
+                            </InputSelect>
                             <ValidationMessage For="() => Model.TableId" />
                         </div>
                     </div>
@@ -95,3 +109,4 @@
         </div>
     </div>
 </div>
+

@@ -38,7 +38,7 @@ namespace RestaurantApp.Web.Components.Pages.Bookings
             if (res != null && res.succees)
             {
                 ToastService.ShowSuccess("Booking Updated Successfully.");
-                NavigationManager.NavigateTo("/table");
+                NavigationManager.NavigateTo("/booking");
 
             }
         }

@@ -11,6 +11,7 @@ namespace RestaurantApp.ApiService.Controller
     [ApiController]
     public class BookingController(IBookingService bookingService) : ControllerBase
     {
+
         [HttpGet]
         public async Task<ActionResult<BaseResponseModel>> GetBookings()
         {
@@ -18,13 +19,19 @@ namespace RestaurantApp.ApiService.Controller
             return Ok(new BaseResponseModel { succees = true, Data = booking });
         }
 
+        //[HttpPost]
+        //public async Task<ActionResult<BookingModel>> CreateBooking(BookingModel bookingModel)
+        //{
+        //    await bookingService.CreateBooking(bookingModel);
+        //    return Ok(new BaseResponseModel { succees = true });
+        //}
+        
         [HttpPost]
         public async Task<ActionResult<BookingModel>> CreateBooking(BookingModel bookingModel)
         {
             await bookingService.CreateBooking(bookingModel);
             return Ok(new BaseResponseModel { succees = true });
         }
-
 
         //for put request first we fetch particular Data from Id
         [HttpGet("{Id}")]
@@ -63,4 +70,14 @@ namespace RestaurantApp.ApiService.Controller
         }
 
     }
-}
+
+    //public class TableController(ITableServices tableService) : ControllerBase
+    //{
+    //    [HttpGet]
+    //    public async Task<ActionResult<BaseResponseModel>> GetTables()
+    //    {
+    //        var tables = await tableService.GetTables();
+    //        return Ok(new BaseResponseModel { succees = true, Data = tables });
+    //    }
+    //}
+ }

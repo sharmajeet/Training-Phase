@@ -17,6 +17,7 @@ namespace RestaurantApp.ApiService.Controller
         //    var tables = await tableService.GetTables();
         //    return Ok(new BaseResponseModel { succees = true, Data = tables });
         //}
+
         [HttpGet]
         public async Task<ActionResult<BaseResponseModel>> GetTables(int page = 1, int pageSize = 10)
         {
@@ -68,6 +69,13 @@ namespace RestaurantApp.ApiService.Controller
             return Ok(new BaseResponseModel { succees = true });
         }
 
+        //[HttpPost]
+        //public async Task<ActionResult<TableModel>> CreateTable(TableModel tableModel)
+        //{
+        //    await tableService.CreateTable(tableModel);
+        //    return Ok(new BaseResponseModel { succees = true });
+        //}
+
         //for put request first we fetch particular Data from Id
         [HttpGet("{Id}")]
         public async Task<ActionResult<BaseResponseModel>> GetTable(int Id)
@@ -84,7 +92,7 @@ namespace RestaurantApp.ApiService.Controller
         [HttpPut("{Id}")]
         public async Task<ActionResult> UpdateTable(int Id ,TableModel tableModel )
         {
-            if (Id != tableModel.Id || !await tableService.TableModelExist(Id))
+            if (Id != tableModel.TableId || !await tableService.TableModelExist(Id))
             {
                 return Ok(new BaseResponseModel { succees = false, ErrorMessage = "Bad Request!" });
             }

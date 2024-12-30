@@ -15,6 +15,8 @@ namespace RestaurantApp.Web.Components.Pages.Tables
         [Inject]
         private NavigationManager NavigationManager { get; set; }
 
+        // Handle table type change and show "Other" input field if selected
+       
         public async Task Submit()
         {
             var res = await ApiClient.PostAsync<BaseResponseModel,TableModel>("/api/Table" , Model);
