@@ -33,7 +33,7 @@ namespace RestaurantApp.Web.Components.Pages.Bookings
             if (res != null && res.succees)
             {
                 BookingModels = JsonConvert.DeserializeObject<List<BookingModel>>(res.Data.ToString());
-                TableModels = JsonConvert.DeserializeObject<List<TableModel>>(res.Data.ToString());
+                //TableModels = JsonConvert.DeserializeObject<List<TableModel>>(res.Data.ToString());
             }
             await base.OnInitializedAsync();
         }

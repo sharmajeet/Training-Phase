@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Tw/FquqsoIw=",
+  "dgSpecHash": "OdkSv34+KlY=",
   "success": true,
-  "projectFilePath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj",
+  "projectFilePath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeetd\\.nuget\\packages\\aspire.dashboard.sdk.win-x64\\9.0.0\\aspire.dashboard.sdk.win-x64.9.0.0.nupkg.sha512",
     "C:\\Users\\jeetd\\.nuget\\packages\\aspire.hosting\\9.0.0\\aspire.hosting.9.0.0.nupkg.sha512",
