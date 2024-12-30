@@ -1,0 +1,79 @@
+﻿@page "/booking"
+@using Restaurant_Models.Entities
+
+<p class="text-center text-primary shadow-lg p-2 mb-2 bg-light-subtle rounded fs-1"
+   style="font-family: 'Arial, sans-serif'; font-weight: bold; letter-spacing: 1px;">
+	List Of All Bookings
+</p>
+
+
+
+@if (BookingModels == null)
+{
+	<p>Loading...</p>
+}
+else
+{
+	<a class="btn btn-primary float-end" href="/booking/create">Create</a>
+	<table class="table table-striped">
+		<thead>
+			<tr>
+				<th>Table ID</th>
+				<th>Table Name</th>
+				<th>CustomerName</th>
+				<th>ContactNumber</th>
+				<th>Date</th>
+				<th>Time</th>
+				<th>Action</th>
+			</tr>
+		</thead>
+		<tbody>
+			@foreach (var booking in BookingModels)
+			{
+				<tr>
+
+					<td>@booking.TableId</td>
+					<td>Table Name</td>
+
+					@* <!-- Find matching table based on TableId --> *@
+					@* <td> *@
+					@* 	@if (TableModels != null) *@
+					@* 	{ *@
+					@* 		var table = TableModels.FirstOrDefault(t => t.TableId == booking.TableId); *@
+					@* 		if (table != null) *@
+					@* 		{ *@
+					@* 			@table.Name *@
+					@* 			@table.TableTag *@
+					@* } *@
+					@* 		else *@
+					@* 		{ *@
+					@* 			<span>No table found</span> *@
+					@* 		} *@
+					@* 	} *@
+					@* </td> *@
+
+					<td>@booking.CustomerName</td>
+					<td>@booking.ContactNumber</td>
+					<td>@booking.Date.ToString("dd-MM-yyyy")</td>
+					<td>@booking.Time</td>
+					<td>
+						<a class="btn btn-secondary" href="/booking/update/@booking.Id">Update</a>
+						<button class="btn btn-danger" @onclick="() => {DeleteId = booking.Id; Model.Open();}">Delete</button>
+					</td>
+				</tr>
+			}
+		</tbody>
+	</table>
+
+
+}
+<AppModel @ref="Model">
+	<Title>Notification</Title>
+	<Body>
+		Do you sure want to Delete this booking?
+	</Body>
+	<Footer>
+		<button type="button" class="btn btn-primary" style="width:80px" @onclick="HandleDelete">Yes</button>
+		<button type="button" class="btn btn-secondary" data-dismiss="Model" style="width:80px" @onclick="() => Model.Close()">Cancel</button>
+	</Footer>
+</AppModel>
