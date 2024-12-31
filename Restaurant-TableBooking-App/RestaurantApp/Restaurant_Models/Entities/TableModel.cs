@@ -21,3 +21,4 @@ namespace Restaurant_Models.Entities
         public ICollection<BookingModel> Bookings { get; set; }  // One-to-many relationship with Bookings
     }
 }
+

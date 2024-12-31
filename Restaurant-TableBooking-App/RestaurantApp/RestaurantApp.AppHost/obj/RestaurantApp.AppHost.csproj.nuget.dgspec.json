@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Garbage\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj": {}
+    "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj": {}
   },
   "projects": {
-    "D:\\Garbage\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj": {
+    "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Garbage\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj",
+        "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj",
         "projectName": "RestaurantApp.AppHost",
-        "projectPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj",
+        "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.AppHost\\RestaurantApp.AppHost.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.AppHost\\obj\\",
+        "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.AppHost\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

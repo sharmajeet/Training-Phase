@@ -5517,11 +5517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
+      "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
       "projectName": "RestaurantApp.ApiService",
-      "projectPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
+      "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
       "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-      "outputPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ApiService\\obj\\",
+      "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ApiService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5543,14 +5543,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Garbage\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
-              "projectPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj"
+            "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
+              "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj"
             },
-            "D:\\Garbage\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj": {
-              "projectPath": "D:\\Garbage\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj"
+            "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj": {
+              "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj"
             },
-            "D:\\Garbage\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
-              "projectPath": "D:\\Garbage\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
+            "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
+              "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
             }
           }
         }

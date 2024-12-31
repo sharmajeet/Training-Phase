@@ -5012,11 +5012,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Garbage\\RestaurantApp\\RestaurantApp.Web\\RestaurantApp.Web.csproj",
+      "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.Web\\RestaurantApp.Web.csproj",
       "projectName": "RestaurantApp.Web",
-      "projectPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.Web\\RestaurantApp.Web.csproj",
+      "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.Web\\RestaurantApp.Web.csproj",
       "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-      "outputPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.Web\\obj\\",
+      "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5038,11 +5038,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Garbage\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
-              "projectPath": "D:\\Garbage\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj"
+            "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
+              "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj"
             },
-            "D:\\Garbage\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
-              "projectPath": "D:\\Garbage\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
+            "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
+              "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
             }
           }
         }
