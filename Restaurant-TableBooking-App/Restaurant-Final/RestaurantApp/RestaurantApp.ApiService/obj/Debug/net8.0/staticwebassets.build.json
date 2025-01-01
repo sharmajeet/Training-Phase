@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C7l/ifOzgETF2HosTxPk4Iawo79QMj3h7qJD6WSYI0I=",
+  "Hash": "mmILxBtk+GXj3nBxBlQzuFMT+uMjfLOmrW9R5eIrGSs=",
   "Source": "RestaurantApp.ApiService",
   "BasePath": "_content/RestaurantApp.ApiService",
   "Mode": "Default",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "C:\\Users\\jeetd\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
       "SourceId": "RestaurantApp.ApiService",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RestaurantApp.ApiService",
       "RelativePath": "RestaurantApp.ApiService#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -111,7 +111,7 @@
       "Integrity": "vcRbcyM3HHt7VoDapZ115UZ/VPjqM/EhnePJ265Vn7c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css"
+      "OriginalItemSpec": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css"
     }
   ],
   "Endpoints": [
@@ -265,7 +265,7 @@
     },
     {
       "Route": "RestaurantApp.ApiService.d0v7cczv69.styles.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -314,7 +314,7 @@
     },
     {
       "Route": "RestaurantApp.ApiService.styles.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.ApiService.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj": {}
+    "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj": {
+    "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
+        "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
         "projectName": "RestaurantApp.ApiService",
-        "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
+        "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\obj\\",
+        "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
-                "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj"
+              "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
+                "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj"
               },
-              "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj": {
-                "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj"
+              "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj": {
+                "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj"
               },
-              "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
-                "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
+              "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
+                "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
               }
             }
           }
@@ -117,14 +117,14 @@
         }
       }
     },
-    "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
+    "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj",
+        "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj",
         "projectName": "RestaurantApp.ServiceDefaults",
-        "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj",
+        "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\obj\\",
+        "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -244,14 +244,14 @@
         }
       }
     },
-    "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj": {
+    "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj",
+        "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj",
         "projectName": "Restaurant_BL",
-        "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj",
+        "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Restaurant_BL.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\obj\\",
+        "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -273,11 +273,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj": {
-                "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj"
+              "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj": {
+                "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj"
               },
-              "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
-                "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
+              "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
+                "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
               }
             }
           }
@@ -347,14 +347,14 @@
         }
       }
     },
-    "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj": {
+    "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj",
+        "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj",
         "projectName": "Restaurant_Database",
-        "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj",
+        "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Database\\Restaurant_Database.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Database\\obj\\",
+        "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -376,8 +376,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
-                "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
+              "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
+                "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj"
               }
             }
           }
@@ -447,14 +447,14 @@
         }
       }
     },
-    "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
+    "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj",
+        "projectUniqueName": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj",
         "projectName": "Restaurant_Models",
-        "projectPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj",
+        "projectPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Restaurant_Models.csproj",
         "packagesPath": "C:\\Users\\jeetd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\obj\\",
+        "outputPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,107 @@
+﻿@page "/booking/create"
+
+<p class="text-center text-primary shadow-lg p-2 mb-2 bg-light-subtle rounded fs-1"
+   style="font-family: 'Arial, sans-serif'; font-weight: bold; letter-spacing: 1px;">
+    Create New Booking
+</p>
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-end">
+        @* <button class="btn btn-primary mb-3" type="submit" @onclick="Submit">Create</button> *@
+    </div>
+
+    <div class="card shadow-lg">
+        <div class="card-body">
+
+            <EditForm Model="Model" OnValidSubmit="Submit">
+                <div class="row">
+                    <!-- Table Selection -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="tableId" class="form-label">Table Id<span class="text-danger">*</span></label>
+                            <InputSelect class="form-control" @bind-Value="Model.TableId" id="tableId">
+                                <option value="">-- Select Table --</option>
+                                @foreach (var table in TableModels)
+                                {
+                                    <option value="@table.Id">@table.TableType (@table.Id)</option>
+                                }
+                            </InputSelect>
+                            <ValidationMessage For="() => Model.TableId" />
+                        </div>
+                    </div>
+
+                    <!-- Customer Name -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="customerName" class="form-label">Customer Name<span class="text-danger">*</span></label>
+                            <InputText class="form-control" @bind-Value="Model.CustomerName" id="customerName" />
+                            <ValidationMessage For="() => Model.CustomerName" />
+                        </div>
+                    </div>
+
+                    <!-- Contact Number -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="contactNumber" class="form-label">Contact Number<span class="text-danger">*</span></label>
+                            <InputText class="form-control" @bind-Value="Model.CustomerPhone" id="contactNumber" />
+                            <ValidationMessage For="() => Model.CustomerPhone" />
+                        </div>
+                    </div>
+
+                    <!-- Date -->
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            <label for="date" class="form-label">Date<span class="text-danger">*</span></label>
+                            <InputDate class="form-control" @bind-Value="Model.BookingDate" id="date" />
+                        </div>
+                    </div>
+
+                  <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="timeFrom" class="form-label">Time From<span class="text-danger">*</span></label>
+                        <InputText class="form-control" @bind-Value="Model.TimeFrom" id="timeFrom" type="time"  />
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-group">
+                        <label for="timeTo" class="form-label">Time To<span class="text-danger">*</span></label>
+                        <InputText class="form-control" @bind-Value="Model.TimeTo" id="timeTo" type="time"  />
+                    </div>
+                </div>
+
+
+
+                    @* <MudForm> *@
+                    @*     <!-- Time From --> *@
+                    @*     <div class="col-md-6"> *@
+                    @*         <div class="form-group"> *@
+                    @*             <label for="timeFrom" class="form-label">Time From</label> *@
+                    @*             <MudTimePicker Label="Time From" @bind-Time="Model.TimeFrom" /> *@
+                    @*         </div> *@
+                    @*     </div> *@
+
+                    @*     <!-- Time To --> *@
+                    @*     <div class="col-md-6"> *@
+                    @*         <div class="form-group"> *@
+                    @*             <label for="timeTo" class="form-label">Time To</label> *@
+                    @*             <MudTimePicker Label="Time To" @bind-Time="Model.TimeTo" /> *@
+                    @*         </div> *@
+                    @*     </div> *@
+                    @* </MudForm> *@
+
+
+
+
+
+
+                </div>
+                <!-- Full Width Save Button -->
+                <div class="d-flex justify-content-center mt-4">
+                    <button class="btn btn-success w-100" type="submit">Save</button>
+                </div>
+            </EditForm>
+
+        </div>
+    </div>
+</div>

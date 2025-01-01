@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "FzOKdLgZPvDhKcYk1DMPmuRiZ9lQIO+qbWNE1JHGyfk=",
+  "Hash": "d4XauFaEi+HyjBTTxUbxAVThnlPJcvzjz69yX5igchI=",
   "Source": "RestaurantApp.Web",
   "BasePath": "_content/RestaurantApp.Web",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "RestaurantApp.Web\\wwwroot",
       "Source": "RestaurantApp.Web",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "Pattern": "**"
     }
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "C:\\Users\\jeetd\\.nuget\\packages\\mudblazor\\7.15.0\\staticwebassets\\MudBlazor.min.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "RestaurantApp.Web#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -119,13 +119,13 @@
       "Integrity": "l2+9MiV+7r2HjOaK+TdvrxW03Juec2JrDsIRpk9WVMw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css"
+      "OriginalItemSpec": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "RestaurantApp.Web#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -140,13 +140,13 @@
       "Integrity": "pzHEn/WjOzIgRFmxnnMosCnrk0s25f+tLXT0hI/g4iU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "app#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.png",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.png",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "favicon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.png"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "RestaurantApp.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
+      "ContentRoot": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\",
       "BasePath": "_content/RestaurantApp.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1260,7 +1260,7 @@
     },
     {
       "Route": "app.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1297,7 +1297,7 @@
     },
     {
       "Route": "app.pstnv8x88t.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1342,7 +1342,7 @@
     },
     {
       "Route": "favicon.ifv42okdf2.png",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1387,7 +1387,7 @@
     },
     {
       "Route": "favicon.png",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.png",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\favicon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1424,7 +1424,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1461,7 +1461,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1498,7 +1498,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.pj5nd1wqec.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1543,7 +1543,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.43atpzeawx.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1588,7 +1588,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1625,7 +1625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1662,7 +1662,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.v0zj4ognzu.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1707,7 +1707,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1744,7 +1744,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.hrwsygsryq.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1789,7 +1789,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1826,7 +1826,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.c63t5i9ira.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1871,7 +1871,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1908,7 +1908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.ft3s53vfgj.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1953,7 +1953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1990,7 +1990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ynyaa8k90p.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2035,7 +2035,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.zub09dkrxp.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2080,7 +2080,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2117,7 +2117,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.c2jlpeoesf.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2162,7 +2162,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2199,7 +2199,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2236,7 +2236,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.aexeepp0ev.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2281,7 +2281,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2318,7 +2318,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.sejl45xvog.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2363,7 +2363,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2400,7 +2400,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.ausgxo2sd3.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2445,7 +2445,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2482,7 +2482,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.22vffe00uq.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2527,7 +2527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2564,7 +2564,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.cosvhxvwiu.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2609,7 +2609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2646,7 +2646,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.xvp3kq03qx.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2691,7 +2691,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.t1cqhe9u97.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2736,7 +2736,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2773,7 +2773,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.fvhpjtyr6v.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2818,7 +2818,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2855,7 +2855,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2892,7 +2892,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.fsbi9cje9m.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2937,7 +2937,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2974,7 +2974,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.tmc1g35s3z.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3019,7 +3019,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.qesaa3a1fm.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3064,7 +3064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3101,7 +3101,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.ee0r1s7dh0.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3146,7 +3146,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3183,7 +3183,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3220,7 +3220,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.jd9uben2k1.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3265,7 +3265,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3302,7 +3302,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.q9ht133ko3.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3347,7 +3347,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.rxsg74s51o.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3392,7 +3392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3429,7 +3429,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3466,7 +3466,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.r4e9w2rdcm.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3511,7 +3511,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.gye83jo8yx.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3556,7 +3556,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3593,7 +3593,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.c2oey78nd0.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3638,7 +3638,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3675,7 +3675,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.wl58j5mj3v.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3720,7 +3720,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3757,7 +3757,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.j5mq2jizvt.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3802,7 +3802,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3839,7 +3839,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.d4r6k3f320.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3884,7 +3884,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3921,7 +3921,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3958,7 +3958,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.nvvlpmu67g.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4003,7 +4003,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.keugtjm085.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4048,7 +4048,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.e1dhc4jrrs.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4093,7 +4093,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4130,7 +4130,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4167,7 +4167,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.vvi9qsthve.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4212,7 +4212,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4249,7 +4249,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.hif0rymsql.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4294,7 +4294,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4331,7 +4331,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.sebe1i1n8x.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4376,7 +4376,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.gndpq4nqn1.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4421,7 +4421,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4458,7 +4458,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.4x8iam552w.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4503,7 +4503,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4540,7 +4540,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4577,7 +4577,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4614,7 +4614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.ogp5iduede.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4659,7 +4659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.l53j0jwsua.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4704,7 +4704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4741,7 +4741,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4778,7 +4778,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.qgo6dgn3l0.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4823,7 +4823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.lmnj6q3dpi.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4868,7 +4868,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.iug4zs40ca.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4913,7 +4913,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4950,7 +4950,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.ev2a1giynf.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4995,7 +4995,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5032,7 +5032,7 @@
     },
     {
       "Route": "RestaurantApp.Web.59edf215hv.styles.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5081,7 +5081,7 @@
     },
     {
       "Route": "RestaurantApp.Web.7cvwnp1tlh.bundle.scp.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5126,7 +5126,7 @@
     },
     {
       "Route": "RestaurantApp.Web.bundle.scp.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\RestaurantApp.Web.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5163,7 +5163,7 @@
     },
     {
       "Route": "RestaurantApp.Web.styles.css",
-      "AssetFile": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css",
+      "AssetFile": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\RestaurantApp.Web.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {

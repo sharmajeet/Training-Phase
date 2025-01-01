@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5pvEPOd7ogY=",
+  "dgSpecHash": "DC44vyBGJt8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj",
+  "projectFilePath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ServiceDefaults\\RestaurantApp.ServiceDefaults.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeetd\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\jeetd\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

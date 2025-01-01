@@ -1,73 +1,73 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\",
+  "WorkspaceRootPath": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\indexbookings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\indexbookings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\components\\pages\\bookings\\indexbookings.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\indexbookings.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\indexbookings.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\components\\pages\\bookings\\indexbookings.razor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\createbooking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\createbooking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\components\\pages\\bookings\\createbooking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80CEECB7-588C-4AF2-AD02-2E2AA4A0ACC7}|Restaurant_Models\\Restaurant_Models.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurant_models\\entities\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80CEECB7-588C-4AF2-AD02-2E2AA4A0ACC7}|Restaurant_Models\\Restaurant_Models.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurant_models\\entities\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80CEECB7-588C-4AF2-AD02-2E2AA4A0ACC7}|Restaurant_Models\\Restaurant_Models.csproj|solutionrelative:restaurant_models\\entities\\bookingmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\updatebooking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\components\\pages\\bookings\\updatebooking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\components\\pages\\bookings\\updatebooking.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{80CEECB7-588C-4AF2-AD02-2E2AA4A0ACC7}|Restaurant_Models\\Restaurant_Models.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurant_models\\entities\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{80CEECB7-588C-4AF2-AD02-2E2AA4A0ACC7}|Restaurant_Models\\Restaurant_Models.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurant_models\\entities\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{80CEECB7-588C-4AF2-AD02-2E2AA4A0ACC7}|Restaurant_Models\\Restaurant_Models.csproj|solutionrelative:restaurant_models\\entities\\tablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B034B071-C0D8-4D12-9DED-467BDD2ACC63}|Restaurant_BL\\Restaurant_BL.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurant_bl\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B034B071-C0D8-4D12-9DED-467BDD2ACC63}|Restaurant_BL\\Restaurant_BL.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurant_bl\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B034B071-C0D8-4D12-9DED-467BDD2ACC63}|Restaurant_BL\\Restaurant_BL.csproj|solutionrelative:restaurant_bl\\services\\bookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B034B071-C0D8-4D12-9DED-467BDD2ACC63}|Restaurant_BL\\Restaurant_BL.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurant_bl\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B034B071-C0D8-4D12-9DED-467BDD2ACC63}|Restaurant_BL\\Restaurant_BL.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurant_bl\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B034B071-C0D8-4D12-9DED-467BDD2ACC63}|Restaurant_BL\\Restaurant_BL.csproj|solutionrelative:restaurant_bl\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.apiservice\\controller\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.apiservice\\controller\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|solutionrelative:restaurantapp.apiservice\\controller\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|solutionrelative:restaurantapp.apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{20990184-1839-4C25-AD86-D95F3033E1EC}|RestaurantApp.Web\\RestaurantApp.Web.csproj|solutionrelative:restaurantapp.web\\apiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|c:\\users\\jeetd\\desktop\\restaurantapp\\restaurantapp.apiservice\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|d:\\training\\restaurant-tablebooking-app\\restaurant-final\\restaurantapp\\restaurantapp.apiservice\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30ECED8F-D7E0-4549-A427-30FF956C8584}|RestaurantApp.ApiService\\RestaurantApp.ApiService.csproj|solutionrelative:restaurantapp.apiservice\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -264,11 +264,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "IndexBookings.razor",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor*",
-              "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor",
+              "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-31T10:40:59.798Z",
               "EditorCaption": ""
@@ -277,209 +277,193 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\NavMenu.razor",
               "RelativeToolTip": "RestaurantApp.Web\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AgIAABUAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T10:37:12.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:37:12.581Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\MainLayout.razor",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\MainLayout.razor",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Layout\\MainLayout.razor",
               "RelativeToolTip": "RestaurantApp.Web\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T10:35:09.385Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:35:09.385Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\wwwroot\\app.css",
               "RelativeToolTip": "RestaurantApp.Web\\wwwroot\\app.css",
               "ViewState": "AgIAAEkAAAAAAAAAAADwv3cAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-12-31T10:33:14.915Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:33:14.915Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "UpdateBooking.razor",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\UpdateBooking.razor",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\UpdateBooking.razor",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Bookings\\UpdateBooking.razor",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\UpdateBooking.razor",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\UpdateBooking.razor",
               "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Bookings\\UpdateBooking.razor",
               "ViewState": "AgIAADAAAAAAAAAAAAAAAEgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T10:23:39.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:23:39.678Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "CreateBooking.razor",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\CreateBooking.razor",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\CreateBooking.razor",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Bookings\\CreateBooking.razor",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\CreateBooking.razor",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\CreateBooking.razor",
               "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Bookings\\CreateBooking.razor",
               "ViewState": "AgIAADMAAAAAAAAAAAAuwEUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-31T10:18:43.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:18:43.447Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\appsettings.json",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\appsettings.json",
               "RelativeDocumentMoniker": "RestaurantApp.ApiService\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\appsettings.json",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\appsettings.json",
               "RelativeToolTip": "RestaurantApp.ApiService\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-31T10:15:50.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:15:50.904Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Properties\\launchSettings.json",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Properties\\launchSettings.json",
               "RelativeToolTip": "RestaurantApp.Web\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-31T10:15:48.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:15:48.448Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\appsettings.json",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\appsettings.json",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\appsettings.json",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\appsettings.json",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\appsettings.json",
               "RelativeToolTip": "RestaurantApp.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-31T10:15:36.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:15:36.559Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
               "Title": "ApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\ApiClient.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\ApiClient.cs",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\ApiClient.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\ApiClient.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\ApiClient.cs",
               "RelativeToolTip": "RestaurantApp.Web\\ApiClient.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T10:15:35.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:15:35.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "BookingRepository.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Repositories\\BookingRepository.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Repositories\\BookingRepository.cs",
               "RelativeDocumentMoniker": "Restaurant_BL\\Repositories\\BookingRepository.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Repositories\\BookingRepository.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Repositories\\BookingRepository.cs",
               "RelativeToolTip": "Restaurant_BL\\Repositories\\BookingRepository.cs",
               "ViewState": "AgIAACIAAAAAAAAAAADwvxYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T10:03:12.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:03:12.793Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "BookingService.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Services\\BookingService.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Services\\BookingService.cs",
               "RelativeDocumentMoniker": "Restaurant_BL\\Services\\BookingService.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_BL\\Services\\BookingService.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_BL\\Services\\BookingService.cs",
               "RelativeToolTip": "Restaurant_BL\\Services\\BookingService.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAkwC4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T10:00:37.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T10:00:37.171Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "TableController.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\TableController.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\TableController.cs",
               "RelativeDocumentMoniker": "RestaurantApp.ApiService\\Controller\\TableController.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\TableController.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\TableController.cs",
               "RelativeToolTip": "RestaurantApp.ApiService\\Controller\\TableController.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAqwBYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:59:29.087Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T09:59:29.087Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "IndexBookings.razor.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor.cs",
               "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor.cs",
               "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Bookings\\IndexBookings.razor.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAcwFEAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:57:39.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T09:57:39.542Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "TableModel.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Entities\\TableModel.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Entities\\TableModel.cs",
               "RelativeDocumentMoniker": "Restaurant_Models\\Entities\\TableModel.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Entities\\TableModel.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Entities\\TableModel.cs",
               "RelativeToolTip": "Restaurant_Models\\Entities\\TableModel.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAcwBcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:57:11.212Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T09:57:11.212Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "BookingModel.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Entities\\BookingModel.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Entities\\BookingModel.cs",
               "RelativeDocumentMoniker": "Restaurant_Models\\Entities\\BookingModel.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\Restaurant_Models\\Entities\\BookingModel.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\Restaurant_Models\\Entities\\BookingModel.cs",
               "RelativeToolTip": "Restaurant_Models\\Entities\\BookingModel.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAA2wBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:56:28.315Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T09:56:28.315Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
               "Title": "BookingController.cs",
-              "DocumentMoniker": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
               "RelativeDocumentMoniker": "RestaurantApp.ApiService\\Controller\\BookingController.cs",
-              "ToolTip": "C:\\Users\\jeetd\\Desktop\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\Restaurant-Final\\RestaurantApp\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
               "RelativeToolTip": "RestaurantApp.ApiService\\Controller\\BookingController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T09:50:27.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-31T09:50:27.796Z"
             }
           ]
         },
