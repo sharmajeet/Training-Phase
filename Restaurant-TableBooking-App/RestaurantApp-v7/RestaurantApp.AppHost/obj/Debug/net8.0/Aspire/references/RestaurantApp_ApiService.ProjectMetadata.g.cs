@@ -7,5 +7,5 @@ namespace Projects;
 [global::System.Diagnostics.DebuggerDisplay("Type = {GetType().Name,nq}, ProjectPath = {ProjectPath}")]
 public class RestaurantApp_ApiService : global::Aspire.Hosting.IProjectMetadata
 {
-    public string ProjectPath => """C:\Users\jeetd\Desktop\RestaurantApp-v7\RestaurantApp.ApiService\RestaurantApp.ApiService.csproj""";
+    public string ProjectPath => """D:\Training\Restaurant-TableBooking-App\RestaurantApp-v7\RestaurantApp.ApiService\RestaurantApp.ApiService.csproj""";
 }

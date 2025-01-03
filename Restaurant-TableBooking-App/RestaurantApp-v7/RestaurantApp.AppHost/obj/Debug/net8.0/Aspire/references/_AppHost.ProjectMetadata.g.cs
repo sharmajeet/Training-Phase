@@ -8,5 +8,5 @@ namespace Projects;
 public class RestaurantApp_AppHost
 {
     private RestaurantApp_AppHost() { }
-    public static string ProjectPath => """C:\Users\jeetd\Desktop\RestaurantApp-v7\RestaurantApp.AppHost""";
+    public static string ProjectPath => """D:\Training\Restaurant-TableBooking-App\RestaurantApp-v7\RestaurantApp.AppHost""";
 }
