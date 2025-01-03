@@ -66,48 +66,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 46,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IndexTables.razor",
-              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
-              "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
-              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
-              "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
-              "ViewState": "AgIAAHYAAAAAAAAAAAAmwIQAAABlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T09:42:32.053Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IndexTables.razor.cs",
-              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
-              "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
-              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
-              "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAUwDMAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T09:13:56.307Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookingController.cs",
-              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
-              "RelativeDocumentMoniker": "RestaurantApp.ApiService\\Controller\\BookingController.cs",
-              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
-              "RelativeToolTip": "RestaurantApp.ApiService\\Controller\\BookingController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-01T11:56:35.613Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -287,6 +247,46 @@
             {
               "$type": "Bookmark",
               "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IndexTables.razor",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
+              "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAmwIQAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T09:42:32.053Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IndexTables.razor.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
+              "RelativeToolTip": "RestaurantApp.Web\\Components\\Pages\\Tables\\IndexTables.razor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T09:13:56.307Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
+              "RelativeDocumentMoniker": "RestaurantApp.ApiService\\Controller\\BookingController.cs",
+              "ToolTip": "D:\\Training\\Restaurant-TableBooking-App\\RestaurantApp-v7\\RestaurantApp.ApiService\\Controller\\BookingController.cs",
+              "RelativeToolTip": "RestaurantApp.ApiService\\Controller\\BookingController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T11:56:35.613Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
